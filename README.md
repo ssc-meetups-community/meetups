@@ -141,7 +141,7 @@ and it looks like this:
     * Contact: j.thomas.moros( a t )gmail.com
  
 * Cologne [LW]
-* Last scheduled meetup: ???
+    * Last scheduled meetup: ???
     * Details: Sometime in late April? The 22nd? The 29th? Contact Marcel below.
     * Location: “A private location”. Contact Marcel below.
     * Contact: marcel_mueller( a t )mail.de
@@ -150,7 +150,7 @@ and it looks like this:
     * Additional search keywords: Denmark
     * Last scheduled meetup: Saturday April 8, 2017,  6  PM
     * Location: Von Fressen, 124 Vesterbrogade, 1620 København
-* Contact: soeren.elverlin( a t )gmail.com, 29263141, please RSVP
+    * Contact: soeren.elverlin( a t )gmail.com, 29263141, please RSVP
  
 * Dallas
     * Last scheduled meetup: Saturday April 15, 2017,  2  PM
