@@ -199,7 +199,7 @@ and it looks like this:
     * Contact: ssc( a t )donnieclapp.com, [RSVP form](https://goo.gl/forms/LNlksO00HJIB7LmB3)
  
 * Istanbul
-    * Additional search terms: Constantinople, Byzantium
+    * Additional search keywords: Constantinople, Byzantium
     * Meetup scheduled: Tuesday, April 11, 2017,  8  PM
     * Location: Plaza in the middle of [Bomontiada](https://www.google.com.tr/maps/place/bomontiada/@41.058487,28.9785293,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab7175e22bf43:0x73674c40205aec4d!8m2!3d41.058487!4d28.980718?hl=en)
     * Contact: ssc( a t )briancloutier.com
