@@ -39,6 +39,7 @@ and it looks like this:
 * Meetup location (city)
     * [Additional search keywords:] Country, (anything else you think is relevant)
     * Meetup scheduled: Saturday, April 8 2017, 2017,  7  PM  (the last scheduled meetup that we know of, local time)
+    * [Details:] (if we have some additional details)
     * Location: Description of location for ^
     * Contact: Contact details like email, FB group, website, blog, anything. Links: [link name](http://www.google.com)
     * [Next meetup planned:] (date if we know it)
