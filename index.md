@@ -198,9 +198,14 @@ The meetup groups we have not heard about in over ~two months should be moved to
  
 * Helsinki
     * Additional search keywords: Finland
-    * Meetup scheduled: Monday April 10, 2017,  4  PM
+    * Meetup scheduled: Saturday, May 13, 2017,  3  PM
     * Location: Oluthuone Kaisla, Vilhonkatu 4
-    * Contact: sschelsinkimeetup( a t )gmail.com
+    * Details: Saturday, May 13 meetup: still tentative.
+    * Previous meetups:
+        - Monday, April 10, 2017,  4  PM 
+    * Contact:
+        - sschelsinkimeetup( a t )gmail.com
+        - https://goo.gl/forms/PELx8wYtCfG0MSz93
  
 * Houston
     * Meetup scheduled: Wednesday, April 26, 2017,  5  PM
