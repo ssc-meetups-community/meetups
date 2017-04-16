@@ -33,27 +33,26 @@ Our format is as follows: [Optional fields in brackets like this.]
 ```
 * Meetup location (city)
     * [Additional search keywords:] Country, (anything else you think is relevant)
-    * Meetup scheduled: Saturday, April 15 2017, 2017,  7  PM  (the most recent scheduled meetup that we know of, local time)
+    * Meetup scheduled: Saturday, April 15 2017, 2017,  7  PM  (the next / most recent scheduled meetup that we know of, local time)
+    * Location: Description of location for ^
+    * [Details:] (if we have some additional details)
     * [Previous meetups:]
         - Saturday, April 8 2017, 2017,  7  PM 
-    * [Details:] (if we have some additional details)
-    * Location: Description of location for ^
     * Contact: Contact details like email, FB group, Meetup.com, website, blog, anything. Links: [link name](http://www.google.com)
     * [Regular meetups:] (any information we have if the meetups happen regularly)
 ```
 
-and it looks like this:
+and it looks like this (without brackets):
 
 * Meetup location (city)
-    * [Additional search keywords:] Country, (anything else you think is relevant)
-    * Meetup scheduled: Saturday, April 15 2017, 2017,  7  PM  (the last scheduled meetup that we know of, local time)
-    * [Previous meetups:]
-        - Saturday, April 8 2017, 2017,  7  PM 
-    * [Details:] (if we have some additional details)
+    * Additional search keywords: Country, (anything else you think is relevant)
+    * Meetup scheduled: Saturday, April 15 2017, 2017,  7  PM  (the next / most recent scheduled meetup that we know of, local time)
     * Location: Description of location for ^
+    * Details: (if we have some additional details)
+    * Previous meetups:
+        - Saturday, April 8 2017, 2017,  7  PM 
     * Contact: Contact details like email, FB group, website, blog, anything. Links: [link name](http://www.google.com)
-    * [Next meetup planned:] (date if we know it)
-    * [Regular meetups:] (any information we have if the meetups happen regularly)
+    * Regular meetups: (any information we have if the meetups happen regularly)
 
 
 ### The SSC Meetups Everywhere: Active / Recent Meetups
