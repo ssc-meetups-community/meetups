@@ -18,6 +18,10 @@ If the meetup has some kind of contact details listed, we encourage that you try
 
 If you see outdated information / want to get your email off the list / have a suggestion, please create an [issue](https://github.com/ssc-meetups-community/meetups/issues) or (if you know how to github) a [pull request](https://github.com/ssc-meetups-community/meetups/pulls).
 
+### RSS?
+
+GitHub provides automagical Atom feed of changes to the repository master branch at https://github.com/ssc-meetups-community/meetups/commits/master.atom
+
 ### How to use this repository?
 
 Our current solution is very simple and low-tech (this is on purpose).
