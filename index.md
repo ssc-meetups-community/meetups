@@ -20,7 +20,7 @@ If you see outdated information / want to get your email off the list / have a s
 
 ### RSS?
 
-GitHub provides automagical Atom feed of changes to the repository master branch at https://github.com/ssc-meetups-community/meetups/commits/master.atom
+GitHub provides automagical Atom feed of changes to the repository master branch at [https://github.com/ssc-meetups-community/meetups/commits/master.atom](https://github.com/ssc-meetups-community/meetups/commits/master.atom)
 
 ### How to use this repository?
 
