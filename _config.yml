@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+repository: ssc-meetups-community/meetups
+name: SSC Meetups
+description: The Unofficial SSC Meetup Repository
+exclude:
+  - .gitignore
+  - README.md
+  - Gemfile.lock
+  - Gemfile
+
+url: https://github.com/ssc-meetups-community/meetups
