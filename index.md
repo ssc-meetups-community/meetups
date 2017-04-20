@@ -12,7 +12,12 @@ This is an **unofficial** community maintained listing of [SlateStarCodex Meetup
 
 Our listing is based on [this post](http://slatestarcodex.com/2017/04/03/ssc-meetups-everywhere-times-and-places/).
 We try to update the information of meetups, but we can't guarantee their veracity.
-If the meetup has some kind of contact details listed, we encourage that you try to contact them directly.
+Especially the '(next) scheduled meetup' field is most likely *outdated*.
+If the meetup has some kind of contact details (email, FB group, Google group, anything) listed, we encourage that you try to contact them directly.
+
+### I'm organizing a meetup, what I should do?
+
+We'd appreciate if you created an external website that you regularly update about any new meetups, and then [tell us about it](https://github.com/ssc-meetups-community/meetups/issues) so that we can link to there. Some popular ways to do that are e.g. [Meetup.com](https://www.meetup.com/), [Google Group](https://groups.google.com), public Facebook event, etc etc.
 
 ### Your information is outdated!
 
@@ -28,7 +33,7 @@ Our current solution is very simple and low-tech (this is on purpose).
 
 Press `Ctrl-F` in your web browser, and search for a location nearby you.
 
-Our format is as follows: [Optional fields in brackets like this.]
+Our format is as follows: [Optional fields marked with brackets.]
 
 ```
 * Meetup location (city)
