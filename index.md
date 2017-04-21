@@ -344,11 +344,16 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Location: 4876 Santa Monica Avenue, Lazy Hummingbird
     * Contact: the.god.empress.celestia( a t )gmail.com
  
+[comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
-    * Meetup scheduled: Monday April 10, 2017,  6:15  PM
-    * Location: Check [here](https://groups.google.com/forum/#!forum/bayarealesswrong) or ask contact below
-    * Contact: rocurley( a t )gmail.com, (301) 458-0764, [Facebook event](https://www.facebook.com/events/1847657588815448/)
- 
+
+    * Meetup scheduled: April 24, 2017, 06:15 PM
+    * Topic: Projects
+    * Location: [1769 15th St, San Francisco, CA 94103-3333, United States](https://www.google.com/maps/place/1769+15th+St%2C+San+Francisco%2C+CA+94103-3333%2C+United+States)
+    * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), (301) 458-0764
+
+
+[comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
     * Meetup scheduled: Sunday April 9, 2017,  2  PM
     * Location: 3806 Williams Rd (private residence)
