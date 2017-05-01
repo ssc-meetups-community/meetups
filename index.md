@@ -391,9 +391,14 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: top.squark( a t )gmail.com, [Facebook event](https://www.facebook.com/events/193713207800098/)
  
 * Toronto
-    * Meetup scheduled: Saturday April 22, 2017,  1  PM
+    * Meetup scheduled: Saturday, May 27, 2017, 1 PM
     * Location: 27 Wellesley Street East, The Fox and the Fiddle, 3rd floor
-    * Contact: Daniel.mm.frank( a t )gmail.com
+    * Contact:
+        - https://www.meetup.com/Less-Wrong-Toronto/
+        - (?) Daniel.mm.frank( a t )gmail.com 
+    * Details: [see here](https://github.com/ssc-meetups-community/meetups/issues/1#issue-225170772)
+    * Previous meetups:
+        - Saturday April 22, 2017,  1  PM
  
 * Vienna [LW]
     * Additional search keywords: Prague, Bratislava, Austria, Czech, Slovakia
