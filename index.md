@@ -109,7 +109,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Berlin secondary option [LW]
     * Meetup scheduled: Sunday April 23, 2017,  7  PM
     * Location: Gaststätte Walhalla, Krefelderstr.6, 10555 Berlin, Germany
-    * Contact: Marcel Ackermann, [Meetup.com event](https://www.meetup.com/de-DE/LessWrong-Rationality-WaitButWhy-SlateStarCodex-Berlin/events/238948198/)
+    * Contact: Marcel Ackermann, [Meetup.com event](https://www.meetup.com/de-DE/LessWrong-Rationality-WaitButWhy-SlateStarCodex-Berlin/)
     * See note above on conflicting Berlin meetups
  
 * Berkeley
@@ -392,7 +392,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Additional search keywords: Sweden
     * Meetup scheduled: Saturday April 8, 2017,  3  PM
     * Location: Stora Nygata 31, Cafe Dox
-    * Contact: erik.e.engelhardt( a t )gmail.com, [Meetup page](https://www.meetup.com/Stockholm-Lesswrong/events/238884163/)
+    * Contact: erik.e.engelhardt( a t )gmail.com, [Meetup page](https://www.meetup.com/Stockholm-Lesswrong/)
  
 * Sydney [LW]
     * Meetup scheduled: Thuresday April 20, 2017,  6  PM
