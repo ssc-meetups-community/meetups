@@ -355,9 +355,15 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
-    * Meetup scheduled: Sunday April 9, 2017,  2  PM
+    * Meetup scheduled: Sunday, May 7, 2017, 2:00 PM
     * Location: 3806 Williams Rd (private residence)
-    * Contact: ddfr( a t )daviddfriedman.com, (408) 244-3330
+    * Contact:
+        - ddfr( a t )daviddfriedman.com, (408) 244-3330
+        - [link](http://www.daviddfriedman.com/Miscellaneous/SSC%20Meetup.html)
+    * Details:
+        - Note [2017-05-01](http://slatestarcodex.com/2017/04/30/open-thread-74-5/#comment-492864): It seems that [David D. Friedman](http://www.daviddfriedman.com/) is organizing San Jose meetups with some regularity.
+    * Previous meetups:
+        - Sunday April 9, 2017,  2  PM
  
 * Sao Paulo [LW]
     * Meetup scheduled: 2017-05-06, Saturday, 2017,  2 PM (Local time, i.e. GMT-0300)
