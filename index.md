@@ -3,7 +3,7 @@
 
 ## The Unofficial SSC Meetup Repository
 
-*Meetup data last updated: 2017-04-14*
+[See here for meetup data commit history](https://github.com/ssc-meetups-community/meetups/commits/master)
 
 ### What is this?
 
