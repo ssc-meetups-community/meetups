@@ -394,7 +394,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Meetup scheduled: Saturday, May 27, 2017, 1 PM
     * Location: 27 Wellesley Street East, The Fox and the Fiddle, 3rd floor
     * Contact:
-        - https://www.meetup.com/Less-Wrong-Toronto/
+        - [https://www.meetup.com/Less-Wrong-Toronto/](https://www.meetup.com/Less-Wrong-Toronto/)
         - (?) Daniel.mm.frank( a t )gmail.com 
     * Details: [see here](https://github.com/ssc-meetups-community/meetups/issues/1#issue-225170772)
     * Previous meetups:
