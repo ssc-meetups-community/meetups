@@ -17,11 +17,20 @@ If the meetup has some kind of contact details (email, FB group, Google group, a
 
 ### I'm organizing a meetup, what I should do?
 
-We'd appreciate if you created an external website that you regularly update about any new meetups, and then [tell us about it](https://github.com/ssc-meetups-community/meetups/issues) so that we can link to there. Some popular ways to do that are e.g. [Meetup.com](https://www.meetup.com/), [Google Group](https://groups.google.com), public Facebook event, etc etc.
+We'd appreciate if you created an external webpage (or similar) in the public internet that you regularly update, and [then tell us about it](https://github.com/ssc-meetups-community/meetups/issues) so that we can link to there.
+
+Some popular platforms to advertise your meetup  are e.g. [Meetup.com](https://www.meetup.com/), [Google Group](https://groups.google.com), public Facebook event, public blog, etc etc.
+
+### Okay, I have a public webpage / FB event / Meetup.com / a Thing, what next?
+
+Let us know!
+
+1. If you have a GitHub account, [create an issue](https://github.com/ssc-meetups-community/meetups/issues). (Click the link, 'New Issue'.)
+2. If you don't have a GitHub account / you don't want to create one, you can email the maintainer (currently [ssc-fans-hki](https://github.com/ssc-fans-hki) at sschelsinkimeetup a t gmail.com.)
 
 ### Your information is outdated!
 
-If you see outdated information / want to get your email off the list / have a suggestion, please create an [issue](https://github.com/ssc-meetups-community/meetups/issues) or (if you know how to github) a [pull request](https://github.com/ssc-meetups-community/meetups/pulls).
+If you see outdated information / want to get your email off the list / have a suggestion, please create an [issue](https://github.com/ssc-meetups-community/meetups/issues) (see above) or if you know how to github, a [pull request](https://github.com/ssc-meetups-community/meetups/pulls).
 
 ### RSS?
 
