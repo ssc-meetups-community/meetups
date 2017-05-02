@@ -251,9 +251,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: [Google group](https://groups.google.com/forum/#!forum/lw-socal-announce)
  
 * Miami
-    * Meetup scheduled: Saturday, April 29, 2017,  5  PM
+    * Meetup scheduled: ?, See FB group link
     * Location: 2390 NW 2nd Ave, Panther Coffee
-    * Contact: eric135033( a t )gmail.com
+    * Contact: eric135033( a t )gmail.com, [Facebook group](https://www.facebook.com/groups/1931644027057534/)
+    * Previous meetups:
+        - Saturday, April 29, 2017,  5  PM
  
 * Milwaukee
     * Meetup scheduled: Saturday, April 8, 2017,  1  PM
