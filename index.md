@@ -331,8 +331,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
  
 * Raleigh
     * Additional search keywords: Research Triangle, Chapel Hill, Durham, North Carolina
-    * Meetup scheduled: Thursday April 6, 2017,  7  PM
-    * Location: 328 Morgan St, Flying Saucer
+    * Meetup scheduled: Wednesday May 10, 2017,  7  PM
+    * Location: 7981 Skyland Ridge Pkwy, Carolina Ale House
     * Contact: mpobrie3( a t )ncsu.edu
  
 * Rochester, New York
