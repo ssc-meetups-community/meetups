@@ -139,9 +139,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: a.pearson.851( a t )hotmail.com
  
 * Cambridge (UK)
-    * Meetup scheduled: No date for second meetup yet, likely some time in early May.
-    * Location: first meetup was at CB2 Bistro, second will probably be too
-    * Contact: rlm72( a t )cam.ac.uk, [RSVP form](https://goo.gl/forms/x5BwOGWGiOynwgzd2)
+    * Meetup scheduled: Wednesday, 10th May, 7 PM
+    * Location: the Burleigh Arms
+    * Contact: rlm72( a t )cam.ac.uk, [RSVP form](https://goo.gl/forms/GcL9uFkhmS6iB4Mk2)
  
 * Canberra
     * Meetup scheduled: Saturday, April 8, 2017, 11 AM
