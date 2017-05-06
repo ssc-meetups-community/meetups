@@ -124,9 +124,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
  
 * Boston
     * Additional search keywords: Cambridge (US)
-    * Meetup scheduled: Saturday April 15, 2017,  2  PM
-    * Location: MIT 4-149
-    * Contact: [Taymon](https://www.google.com/recaptcha/mailhide/d?k=01G30UrKC3iqjmJZnjxmFh7w==&c=tMp1y7sbgdf8LJtTTghiWTotzqxjw3pX_C-ld3oCyas=), [Facebook event](https://www.facebook.com/events/288792744893621/)
+    * Meetup scheduled: Sunday May 14, 2017,  2  PM (also an _Unsong_ wrap party!)
+    * Location: MIT 5-234
+    * Contact: [Mailing list](https://groups.google.com/forum/#!contactowner/ssc-boston), [Facebook event](https://www.facebook.com/events/1538533946190765/)
  
 * Brisbane
     * Meetup scheduled: Friday, April 14, 2017,  7  PM
