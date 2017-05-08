@@ -358,12 +358,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 [comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
 
-    * Meetup scheduled: May 01, 2017, 06:15 PM
-    * Topic: Shallow Questions
-    * Location: [Yerba Buena Gardens, 750 Howard St, San Francisco, CA 94103, United States](https://goo.gl/maps/F8KAt2yV2f12)
+    * Meetup scheduled: May 08, 2017, 06:15 PM
+    * Topic: Stories
+    * Location: [1769 15th St, San Francisco, CA 94103-3333, United States](https://www.google.com/maps/place/1769+15th+St%2C+San+Francisco%2C+CA+94103-3333%2C+United+States)
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), (301) 458-0764
-    * More Info: [Lesswrong Meetup Post](http://lesswrong.com/meetups/1xe)
-    * Note: The meetup was moved the day of, since our normal location fell through.
+    * More Info: [Lesswrong Meetup Post](http://lesswrong.com/meetups/1xo)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
