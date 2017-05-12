@@ -217,7 +217,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Additional search keywords: Finland
     * Meetup scheduled: Saturday, May 13, 2017,  3  PM
     * Location: Oluthuone Kaisla, Vilhonkatu 4
-    * Details: Saturday, May 13 meetup: still tentative.
+    * Details: Saturday, May 13 meetup (is going to happen @ Kaisla)
     * Previous meetups:
         - Monday, April 10, 2017,  4  PM 
     * Contact:
