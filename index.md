@@ -86,8 +86,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: azure( a t )eclectic.blue
 
 * Atlanta
-    * Meetup scheduled: Sunday April 9, 2017,  7  PM
-      * Location: 240 North Highland Ave H, Inman Perk Coffee Shop
+    * Meetup scheduled: Every other Sunday, 7 PM
+      * Location: Variable, usually ITP
+    * Previous meetups:
+      * Sunday April 9, 2017,  7  PM
     * Contact: 
       * tom.hennessy( a t )gmail.com
       * [Facebook event](https://www.facebook.com/events/208699286282712/)
@@ -116,6 +118,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Berkeley
     * Meetup scheduled: Sunday April 9, 2017,  2  PM
       * Location: 21 Shattuck Ave, 85C Bakery Cafe, probably upstairs
+    * Previous meetups:
+      * Sunday April 9, 2017,  2  PM
+      * Tuesday May 16, 2017
     * Contact: brianwang712( a t )gmail.com
 
 * Birmingham (UK)
@@ -319,9 +324,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: conor.meade( a t )gmail.com
 
 * Oxford
-    * Meetup scheduled: Wednesday April 12, 2017,  7  PM
-      * Location: Swan & Castle OX1 1LJ
-    * Contact: hbesceli( a t )gmail.com
+    * Meetup scheduled: No current plans for future meetups
+    * Previous meetups:
+      * Wednesday April 12, 2017,  7  PM
+    * Contact: [Google Group](https://groups.google.com/forum/#!forum/slate-star-codex-oxford)
 
 * Paris
     * Meetup scheduled: Saturday April 8, 2017,  2  PM
@@ -339,7 +345,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Phoenix
     * Meetup scheduled: Saturday April 8, 2017, noon
       * Location: Granada Park (20th St and Bethany Home, right off the 51)
-    * Contact: spinystellate1( a t )gmail.com
+    * Contact: 
+      * spinystellate1( a t )gmail.com
+      * [Google Group](https://groups.google.com/forum/#!forum/slate-star-codex-phoenix)
 
 * Pittsburgh
     * Meetup scheduled: Saturday April 8, 2017,  2  PM
