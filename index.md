@@ -417,11 +417,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Stockholm
     * Additional search keywords: Sweden
+    * Meetup scheduled: Saturday June 3, 2017, 3 PM
     * Regular meetups: First Saturday of every month, 3 PM
       - Location: Stora Nygata 31, Cafe Dox
     * Previous meetups: 
       - Saturday April 8, 2017,  3  PM
-      - Saturday June 3, 2017, 3 PM
     * Contact: 
       - erik.e.engelhardt( a t )gmail.com
       - [Meetup page](https://www.meetup.com/Stockholm-Lesswrong/)
