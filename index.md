@@ -214,11 +214,14 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: egoburnswell( a t )gmail.com
 
 * Edinburgh
-    * Meetup scheduled: Sunday April 23, 2017,  6  PM
+    * Regular meetups: Sunday 6 PM, every 4 weeks
       * Location: 14 Drummond Street, The Brass Monkey
+    * Previous meetups:
+      * Sunday April 23, 2017,  6  PM
+      * Sunday May 21, 2017, 6 PM
     * Contact: 
-      * marian.andrecki( a t )gmail.com
-      * [Facebook group](https://www.facebook.com/groups/1023847387749311/?fref=mentions)
+      * marian.andrecki (at) gmail.com
+      * [Facebook group](https://www.facebook.com/groups/1023847387749311/)
 
 * Edmonton
     * Meetup scheduled: Saturday April 15, 2017,  2  PM
@@ -336,10 +339,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: 0659427285
 
 * Philadelphia
-    * Meetup scheduled: Saturday April 15, 2017,  2  PM
-      * Location: 100 S Independence Mall (6 & Market), La Colombe Coffee
+    * Meetup scheduled: Saturday June 10, 2017, 2pm
+      * Location: Washington Square Park (rain location: Bourse Food Court), in Old City, Philadelphia
+    * Details: Meetups are regular-ish, about once a month, but no set schedule
+    * Previous meetups:
+      *  Saturday April 15, 2017,  2  PM
     * Contact: 
-      * wfenza( a t )gmail.com, (856) 441-0937
+      * wfenza (at) gmail.com, (856) 441-0937
       * [Facebook group](https://www.facebook.com/groups/1860821844172873/)
       * [Google group](https://groups.google.com/forum/#!forum/lesswrong-philadelphia)
 
@@ -388,7 +394,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 [comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
-
     * Meetup scheduled: May 22, 2017, 06:15 PM
     * Topic: Board Games and Singing
     * Location: [1769 15th St, San Francisco, CA 94103-3333, United States](https://www.google.com/maps/place/1769+15th+St%2C+San+Francisco%2C+CA+94103-3333%2C+United+States)
@@ -397,13 +402,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
-    * Meetup scheduled: Sunday, May 7, 2017, 2:00 PM
+    * Meetup scheduled: Sunday May 7, 2017, 2:00 PM
       * Location: 3806 Williams Rd (private residence)
     * Contact:
-        * ddfr( a t )daviddfriedman.com, (408) 244-3330
+        * ddfr (at) daviddfriedman.com, (408) 244-3330
         * [link](http://www.daviddfriedman.com/Miscellaneous/SSC%20Meetup.html)
-    * Details:
-        * Note [2017-05-01](http://slatestarcodex.com/2017/04/30/open-thread-74-5/#comment-492864): It seems that [David D. Friedman](http://www.daviddfriedman.com/) is organizing San Jose meetups with some regularity.
     * Previous meetups:
         * Sunday April 9, 2017,  2  PM
 
@@ -411,7 +414,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Meetup scheduled: Saturday May 6, 2017,  2 PM (Local time, i.e. GMT-0300)
       * Location: Vanilla Cafe – R. Antônio Carlos, 452 (near Metro Consolação)
     * Contact: 
-      * gusbicalho( a t )gmail.com
+      * gusbicalho (at) gmail.com
       * [mailing list](https://groups.google.com/forum/#!forum/racionalidade)
 
 * Seattle [LW]
@@ -422,7 +425,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * St. Louis
     * Meetup scheduled: Sunday April 23, 2017,  1  PM
       * Location: 3974 Hartford St, Hartford Coffee
-    * Contact: brerwolf( a t )gmail.com
+    * Contact: brerwolf (at) gmail.com
 
 * Stockholm
     * Additional search keywords: Sweden
@@ -432,7 +435,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Previous meetups: 
       * Saturday April 8, 2017,  3  PM
     * Contact: 
-      * erik.e.engelhardt( a t )gmail.com
+      * erik.e.engelhardt (at) gmail.com
       * [Meetup page](https://www.meetup.com/Stockholm-Lesswrong/)
 
 * Sydney [LW]
@@ -502,4 +505,4 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Additional search keywords: Switzerland
     * Meetup scheduled: Saturday April 8, 2017,  5  PM
       * Location: Tibits Oerlikon, Tramstrasse 2, 8050
-    * Contact: thiel.marko( a t )cantab.net
+    * Contact: thiel.marko (at) cantab.net
