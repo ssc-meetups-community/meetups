@@ -445,7 +445,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Meetup scheduled: Tuesday, June 6, 2017,  7  PM
       * Location: Usually at The Cluster, Yigal Alon 118, Tel Aviv, but see the Facebook events
     * Details: LessWrong Israel is also a SlateStarCodex meetup -- same cool people, same fascinating ideas.. We meet almost every Tuesdays: Monthly, we have lectures or similar events; at a two-week offset from those we have "Game Nights" -- but you can also just come and hang out. Other Tuesdays, we often get together at a pub. We've been going strong for five or so years.
-* We've been going strong for five or so years.
     * Previous meetups:
       * Tuesday, May 9, 2017,  7  PM
     * Contact:
