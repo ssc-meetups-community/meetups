@@ -389,7 +389,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * San Diego
     * Meetup scheduled: Monday May 22, 2017, 7:30 PM
-      * Location: LeStat's Hillcrest 1041 University Ave San Diego, CA 92103
+      * Location: LeStat's Hillcrest, 1041 University Ave San Diego, CA 92103
+    * Details: We plan on meeting once a month but I have no specified a date or time for the next one.
     * Previous meetups:
       * Saturday April 22, 2017,  4  PM
     * Contact: 
