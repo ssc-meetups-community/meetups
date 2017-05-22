@@ -473,8 +473,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: michal.trzesimiech( a t )gmail.com
 
 * Washington DC
-    * Meetup scheduled: Saturday April 15, 2017,  7  PM
+    * Meetup scheduled: Saturday June 24, 2017 (recurring but irregular)
       * Location: 450 Massachussetts Ave NW, The Meridian at Gallery Place, roof/14th floor lounge (private residence)
+    * Previous meetups:
+      * Saturday April 15, 2017,  7  PM
+      * Saturday May 20, 2017
     * Contact: robirahman94( a t )gmail.com
 
 * Washington DC secondary option [LW]
