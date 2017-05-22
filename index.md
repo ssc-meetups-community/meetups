@@ -442,10 +442,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Tel Aviv [LW]
     * Additional search keywords: Israel, Haifa, Jerusalem
-    * Meetup scheduled: Tuesday, May 9, 2017,  7  PM
-      * Location: Yigal Alon 118, “The Cluster”, entrance is from Totseret Ha’aretz street through a brown door, if closed ring the doorbell and someone will let you in
-    * Contact: 
-      * top.squark( a t )gmail.com
+    * Meetup scheduled: Tuesday, June 6, 2017,  7  PM
+      * Location: Usually at The Cluster, Yigal Alon 118, Tel Aviv, but see the Facebook events
+    * Details: LessWrong Israel is also a SlateStarCodex meetup -- same cool people, same fascinating ideas.. We meet almost every Tuesdays: Monthly, we have lectures or similar events; at a two-week offset from those we have "Game Nights" -- but you can also just come and hang out. Other Tuesdays, we often get together at a pub. We've been going strong for five or so years.
+* We've been going strong for five or so years.
+    * Previous meetups:
+      * Tuesday, May 9, 2017,  7  PM
+    * Contact:
       * [Facebook group](https://www.facebook.com/groups/480249315379682/)
 
 * Toronto [LW]
