@@ -370,6 +370,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Additional search keywords: Research Triangle, Chapel Hill, Durham, North Carolina
     * Meetup scheduled: Wednesday May 10, 2017,  7  PM
       * Location: 7981 Skyland Ridge Pkwy, Carolina Ale House
+    * Previous meetups:
+      * Thursday April 6, 2017,  7  PM
     * Contact: mpobrie3( a t )ncsu.edu
 
 * Rochester, New York
