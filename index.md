@@ -179,8 +179,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: robintanenbaum (at) gmail.com
 
 * Columbus
-    * Meetup scheduled: Saturday, April 15, 2017,  2  PM
-      * Location: 1277 Grandview Ave, Grandview Heights, OH. Stauf’s Coffee
+    * Meetup scheduled: Saturday May 27, 2017
+      * Location: 1277 Grandview Ave, Grandview Heights, OH. Stauf’s Coffee
+    * Previous meetups:
+      * Saturday, April 15, 2017,  2  PM
     * Contact: j.thomas.moros (at) gmail.com
 
 * Cologne [LW]
@@ -188,12 +190,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Details: Sometime in late April? The 22nd? The 29th? Contact Marcel below.
     * Location: “A private location”. Contact Marcel below.
     * Contact: marcel_mueller (at) mail.de
-
-* Copenhagen
-    * Additional search keywords: Denmark
-    * Details: Only 5 known interested people in Denmark, none committed
-    * Previous meetups:
-      * Saturday April 8, 2017,  6  PM
 
 * Dallas
     * Meetup scheduled: Saturday April 15, 2017,  2  PM
@@ -226,14 +222,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Edmonton
     * Meetup scheduled: Saturday April 15, 2017,  2  PM
       * Location: 8631 109 St NW, the Remedy in Garneau
-    * Contact: alt.acct( a t )gmx.com
-
-* Fullerton
-    * Additional search keywords: Orange County, Irvine, Southern California
-    * Meetup scheduled: None
-    * Previous meetups:
-      * Wednesday April 12, 2017,  6  PM
-    * Contact: mondayrhymer( a t )gmail.com
+    * Contact: alt.acct (at) gmx.com
 
 * Helsinki
     * Additional search keywords: Finland
@@ -243,30 +232,25 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Previous meetups:
         * Monday, April 10, 2017,  4  PM
     * Contact:
-        * sschelsinkimeetup( a t )gmail.com
+        * sschelsinkimeetup (at) gmail.com
         * https://goo.gl/forms/PELx8wYtCfG0MSz93
 
 * Houston
     * Meetup scheduled: Wednesday, April 26, 2017,  5  PM
       * Location: 300 Main St, Honeymoon Cafe & Bar
-    * Contact: ssc( a t )donnieclapp.com
+    * Contact: ssc (at) donnieclapp.com
 
 * Istanbul
     * Additional search keywords: Constantinople, Byzantium
     * Meetup scheduled: Tuesday, April 11, 2017,  8  PM
       * Location: Plaza in the middle of [Bomontiada](https://www.google.com.tr/maps/place/bomontiada/@41.058487,28.9785293,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab7175e22bf43:0x73674c40205aec4d!8m2!3d41.058487!4d28.980718?hl=en)
-    * Contact: ssc( a t )briancloutier.com
-
-* Kansas City
-    * Meetup scheduled: Saturday May 6, 2017,  1  PM
-      * Location: Loose Park, pavillion/rose garden
-    * Contact: a.l.whitespace( a t )gmail.com
+    * Contact: ssc (at) briancloutier.com
 
 * London
     * Meetup scheduled: Sunday, April 30, 2017, 2pm
       * Location: Shakespeare’s Head, Holborn (On Kingsway, just south of the tube station – NOT the Shakespeare’s Head in Soho.)
     * Contact: 
-      * philip.hazelden( a t )gmail.com
+      * philip.hazelden (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/380103898766356/)
 
 * Los Angeles [LW]
@@ -277,13 +261,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Madison
     * Meetup scheduled: Sunday, April 9, 2017,  7  PM
       * Location: 114 State Street, Michelangelo’s Coffee House
-    * Contact: nathanielbude( a t )gmail.com
+    * Contact: nathanielbude (at) gmail.com
 
 * Miami
     * Meetup scheduled: See FB group link
     * Location: 2390 NW 2nd Ave, Panther Coffee
     * Contact: 
-      * eric135033( a t )gmail.com
+      * eric135033 (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/1931644027057534/)
     * Previous meetups:
         * Saturday, April 29, 2017,  5  PM
@@ -296,19 +280,19 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Minneapolis
     * Meetup scheduled: Saturday, May 20, 2017, 10 AM
       * Location: 425 14th Ave SE, Dinkytown Starbucks
-    * Contact: piers199( a t )umn.edu
+    * Contact: piers199 (at) umn.edu
 
 * Montreal
     * Meetup scheduled: Friday, April 14, 2017,  6  PM
       * Location: 1191 Avenue Hope (private residence)
     * Contact: 
-      * mathieu.roy.37( a t )gmail.com
+      * mathieu.roy.37 (at) gmail.com
       * [LessWrong Montreal Facebook group](https://www.facebook.com/groups/309511245902133?_rdr)
 
 * New Haven
     * Meetup scheduled: Saturday April 8, 2017,  2  PM
       * Location: 1140 Chapel, Book Trader Cafe
-    * Contact: elizah.stein( a t )gmail.com
+    * Contact: elizah.stein (at) gmail.com
 
 * New York City
     * Additional search keywords: NYC
@@ -325,13 +309,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Ottawa
     * Meetup scheduled: Saturday April 15, 2017,  3  PM
       * Location: 361 Elgin at Gladstone, Lieutenant’s Pump
-    * Contact: conor.meade( a t )gmail.com
-
-* Oxford
-    * Meetup scheduled: No current plans for future meetups
-    * Previous meetups:
-      * Wednesday April 12, 2017,  7  PM
-    * Contact: [Google Group](https://groups.google.com/forum/#!forum/slate-star-codex-oxford)
+    * Contact: conor.meade (at) gmail.com
 
 * Paris
     * Meetup scheduled: Saturday April 8, 2017,  2  PM
