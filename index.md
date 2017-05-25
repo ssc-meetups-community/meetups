@@ -353,18 +353,20 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Meetup scheduled: Saturday April 8, 2017, noon
       * Location: Granada Park (20th St and Bethany Home, right off the 51)
     * Contact: 
-      * spinystellate1( a t )gmail.com
+      * spinystellate1 (at) gmail.com
       * [Google Group](https://groups.google.com/forum/#!forum/slate-star-codex-phoenix)
 
 * Pittsburgh
     * Meetup scheduled: Saturday April 8, 2017,  2  PM
       * Location: 4327 Butler St, Floor 2, Catapult Coworking
-    * Contact: matthewfmarks( a t )gmail.com
+    * Contact: matthewfmarks (at) gmail.com
 
 * Portland
-    * Meetup scheduled: Saturday April 8, 2017,  12:30  PM
-      * Location: 2505 SE 11 Ave #101, Ford Food & Drink
-    * Contact: nwalton125( a t )gmail.com
+    * Meetup scheduled: Saturday June 10, 2017
+      * Monthly meetups, contact Noah for details (email address below)
+    * Previous meetups:
+      * Saturday April 8, 2017,  12:30  PM
+    * Contact: nwalton125 (at) gmail.com
 
 * Raleigh
     * Additional search keywords: Research Triangle, Chapel Hill, Durham, North Carolina
@@ -372,12 +374,12 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Location: 7981 Skyland Ridge Pkwy, Carolina Ale House
     * Previous meetups:
       * Thursday April 6, 2017,  7  PM
-    * Contact: mpobrie3( a t )ncsu.edu
+    * Contact: mpobrie3 (at) ncsu.edu
 
 * Rochester, New York
     * Meetup scheduled: Sunday April 9, 2017,  1  PM
       * Location: 200 East Avenue, SPoT Coffee
-    * Contact: thecommexokid( a t )gmail.com
+    * Contact: thecommexokid (at) gmail.com
 
 * Sacramento
     * Meetup scheduled: Saturday April 8, 2017,  6  PM
