@@ -314,7 +314,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Additional search keywords: NYC
     * Meetup scheduled: Saturday April 22, 2017,  2  PM
       * Location: 353 W 14th St, Gansevoort Market, main seating area at north end
-    * Contact: ???
+    * Contact: deluks917 (at)  gmail.com
 
 * Online
     * Additional search keywords: Africa
