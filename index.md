@@ -179,11 +179,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: robintanenbaum (at) gmail.com
 
 * Columbus
-    * Meetup scheduled: Saturday May 27, 2017
-      * Location: 1277 Grandview Ave, Grandview Heights, OH. Stauf’s Coffee
-    * Previous meetups:
+    * Meetup scheduled: Saturday May 27, 2017, 2 PM
+      * Location: 1069 Jaeger St, Columbus, OH 43206 Schiller Park (northwest quadrant)
+    * Previous meetups:
       * Saturday, April 15, 2017,  2  PM
-    * Contact: j.thomas.moros (at) gmail.com
+    * Contact: 
+      * j.thomas.moros (at) gmail.com
+      * email to be added to the Google group mailing list
 
 * Cologne [LW]
     * Meetups held monthly
