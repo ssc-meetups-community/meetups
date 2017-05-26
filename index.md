@@ -248,8 +248,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: ssc (at) briancloutier.com
 
 * London
-    * Meetup scheduled: Sunday, April 30, 2017, 2pm
+    * Meetup scheduled: [Sunday May 28, 2017, 2 PM](https://www.facebook.com/events/1031924280242728/)
       * Location: Shakespeare’s Head, Holborn (On Kingsway, just south of the tube station – NOT the Shakespeare’s Head in Soho.)
+    * Details: Meetups every other Sunday at 2 PM, usually in the same pub but with occasional changes (especially with nice weather when we might go to the nearby park).
+    * Previous meetups:
+      * Sunday, April 30, 2017, 2 PM
     * Contact: 
       * philip.hazelden (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/380103898766356/)
