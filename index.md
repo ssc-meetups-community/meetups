@@ -179,18 +179,15 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: robintanenbaum (at) gmail.com
 
 * Columbus
-    * Meetup scheduled: Saturday May 27, 2017, 2 PM
-      * Location: 1777 E Broad St, Columbus, OH 43203 Franklin Park (email for exact location in the park)
-    * Previous meetups:
+    * Meetup scheduled: Saturday May 27, 2017
+      * Location: 1277 Grandview Ave, Grandview Heights, OH. Stauf’s Coffee
+    * Previous meetups:
       * Saturday, April 15, 2017,  2  PM
-    * Contact: 
-      * j.thomas.moros (at) gmail.com
-      * email to be added to the Google group mailing list
+    * Contact: j.thomas.moros (at) gmail.com
 
 * Cologne [LW]
-    * Meetup scheduled: ???
-    * Details: Sometime in late April? The 22nd? The 29th? Contact Marcel below.
-    * Location: “A private location”. Contact Marcel below.
+    * Meetups held monthly
+    * Details: Contact Marcel below to be added to the mailing list
     * Contact: marcel_mueller (at) mail.de
 
 * Dallas
@@ -268,11 +265,12 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Miami
     * Meetup scheduled: See FB group link
     * Location: 2390 NW 2nd Ave, Panther Coffee
+    * Previous meetups:
+        * Saturday, April 29, 2017,  5  PM
     * Contact: 
       * eric135033 (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/1931644027057534/)
-    * Previous meetups:
-        * Saturday, April 29, 2017,  5  PM
+    
 
 * Milwaukee
     * Meetup scheduled: Saturday, April 8, 2017,  1  PM
@@ -287,9 +285,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Montreal
     * Meetup scheduled: Friday, April 14, 2017,  6  PM
       * Location: 1191 Avenue Hope (private residence)
+    * Details: Not an SSC-specific group, but SSC fans are always welcome at the Macroscope's events!
     * Contact: 
       * mathieu.roy.37 (at) gmail.com
       * [LessWrong Montreal Facebook group](https://www.facebook.com/groups/309511245902133?_rdr)
+      * [Macroscope Facebook page](https://www.facebook.com/macroscopers/)
 
 * New Haven
     * Meetup scheduled: Saturday April 8, 2017,  2  PM
@@ -400,11 +400,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
         * [link](http://www.daviddfriedman.com/Miscellaneous/SSC%20Meetup.html)
 
 * Sao Paulo [LW]
-    * Meetup scheduled: Saturday May 6, 2017,  2 PM (Local time, i.e. GMT-0300)
-      * Location: Vanilla Cafe – R. Antônio Carlos, 452 (near Metro Consolação)
+    * Meetings monthly, but date & time & location are variable
     * Contact: 
       * gusbicalho (at) gmail.com
-      * [mailing list](https://groups.google.com/forum/#!forum/racionalidade)
+      * [Meetup.com](https://www.meetup.com/pt-BR/Racionalidade-em-Sao-Paulo/)
+      * [mailing list](https://groups.google.com/forum/#!forum/racionalidade) (not very active)
 
 * Seattle [LW]
     * Meetup scheduled: Sunday April 30, 12 noon
