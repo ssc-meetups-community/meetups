@@ -180,8 +180,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Columbus
     * Meetup scheduled: Saturday May 27, 2017, 2 PM
-      * Location: 1777 E Broad St, Columbus, OH 43203 Franklin Park (email for exact location in the park)
-    * Previous meetups:
+      * Location: 1777 E Broad St, Columbus, OH 43203 Franklin Park (email for exact location in the park)
+    * Previous meetups:
       * Saturday, April 15, 2017,  2  PM
     * Contact: 
       * j.thomas.moros (at) gmail.com
