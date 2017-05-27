@@ -374,7 +374,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Salt Lake City
     * Meetup scheduled: Saturday April 8, 2017,  1:30  PM
       * Location: 1766 Main St, Pho Tay Ho
-    * Contact: bhauth (at) gmail.com
 
 * San Diego
     * Meetup scheduled: Monday May 22, 2017, 7:30 PM
