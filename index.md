@@ -432,8 +432,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Meetup page](https://www.meetup.com/Stockholm-Lesswrong/)
 
 * Sydney [LW]
-    * Meetup scheduled: 
-        * see Meetup.com link below.
+    * Meetup scheduled: see Meetup.com link below.
     * Details: Regular monthly rationality/LW/SSC meetup
     * Previous meetups:
         * Thursday April 20, 2017,  6  PM
