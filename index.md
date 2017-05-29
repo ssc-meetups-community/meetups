@@ -432,9 +432,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Meetup page](https://www.meetup.com/Stockholm-Lesswrong/)
 
 * Sydney [LW]
-    * Meetup scheduled: Thursday April 20, 2017,  6  PM
-      * Location: 565 George Street, City of Sydney RSL, level 2, big table by the pizza oven
-    * Contact: 0438481143
+    * Meetup scheduled: 
+        * see Meetup.com link below.
+    * Details: Regular monthly rationality/LW/SSC meetup
+    * Previous meetups:
+        * Thursday April 20, 2017,  6  PM
+    * Contact:
+        * [Meetup page](https://www.meetup.com/rationalists_of_sydney/)
 
 * Tel Aviv [LW]
     * Additional search keywords: Israel, Haifa, Jerusalem
