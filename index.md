@@ -466,17 +466,18 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Vienna [LW]
     * Additional search keywords: Prague, Bratislava, Austria, Czech, Slovakia
-    * Meetup scheduled: Saturday April 15, 2017,  3  PM
-      * Location: Kaisermühlenstraße 24, meetup room on back of ground floor, 1220 Vienna
+    * Meetup scheduled: See Facebook group
+    * Previous meetups: 
+      * Saturday April 15, 2017,  3  PM
     * Contact: 
-      * strivingforconsistency( a t )gmail.com
+      * strivingforconsistency (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/rationalityvienna/)
       
 * Warsaw
     * Additional search keywords: Poland
     * Meetup scheduled: Saturday April 22, 2017,  5  PM
       * Location: Panstwo Miasto, Andersa 29 (Pokoj Spotkan),
-    * Contact: michal.trzesimiech( a t )gmail.com
+    * Contact: michal.trzesimiech (at) gmail.com
 
 * Washington DC
     * Meetup scheduled: Saturday June 24, 2017 (recurring but irregular)
@@ -484,13 +485,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Previous meetups:
       * Saturday April 15, 2017,  7  PM
       * Saturday May 20, 2017
-    * Contact: robirahman94( a t )gmail.com
+    * Contact: robirahman94 (at) gmail.com
 
 * Washington DC secondary option [LW]
     * Meetup scheduled: Sunday April 23, 2017,  3:30  PM
       * Location: 8th St NW & F St NW, Portrait Gallery Courtyard
     * Contact: 
-      * lesswrong-dc( a t )googlegroups.com
+      * lesswrong-dc (at) googlegroups.com
       * [Facebook group](https://www.facebook.com/groups/LessWrongDC)
 
 * Wellington
@@ -499,7 +500,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Location: Hashigo Zake
     * Previous meetups:
         * Thursday, April 20, 2017, 6PM
-    * Contact: CalebWithersNZ on Facebook, calebwithers[ a t ]gmail.com, 0221371337
+    * Contact: CalebWithersNZ on Facebook, calebwithers (at) gmail.com, 0221371337
         * Consider making contact if you're showing up for the first time, so you can be kept in the loop if there are any last-minute location changes etc.
 
 * Zurich [LW]
