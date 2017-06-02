@@ -416,8 +416,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [mailing list](https://groups.google.com/forum/#!forum/racionalidade) (not very active)
 
 * Seattle [LW]
-    * Meetup scheduled: Sunday April 30, 12 noon
-      * Location: 2325 42nd Ave E (private residence)
+    * Meetup scheduled: See Facebook group
+    * Details: The Seattle Rationality community is very active and welcomes SSC readers! 
     * Contact: [Facebook group](https://www.facebook.com/groups/seattlerationality/)
 
 * St. Louis
