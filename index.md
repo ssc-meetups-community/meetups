@@ -77,9 +77,14 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Amsterdam
     * Additional search keywords: Netherlands
-    * Meetup scheduled: Saturday, April 8, 2017,  7  PM
-      * Location: Prins Hendrikkade 85, Cafe Batavia
-    * Contact: sonny.public( a t )gmail.com
+    * Meetup scheduled: Saturday, June 10, 3 PM - 6 PM
+      * Location: De Prael, Oudezijds Armsteeg 26, 1012 GP Amsterdam, Netherlands 
+    * Details: Meetups are regular but not on a fixed day yet
+    * Previous meetups:
+      * Saturday, April 8, 2017,  7  PM
+    * Contact: 
+      * sonny.public (at) gmail.com
+      * [Facebook group]( https://www.facebook.com/groups/SlateStarCodexAmsterdam/)
 
 * Ann Arbor [LW]
     * Meetup scheduled: Saturday, April 8, 2017,  4  PM
@@ -198,11 +203,16 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: ???
 
 * Denver [LW]
-    * Regular meetups: Generally the first Tuesday of every month
-      * Location: 4955 S Ulster St, Darcy’s
+    * Regular meetups: Generally the first Tuesday of every month at 7 PM
+      * Location: Darcy's Irish Pub, back room ("the library"), 4955 S Ulster St
+    * Details: The Denver Rationalist community has monthly meetups, and is very welcoming of SSC readers
     * Previous meetups:
-      * Tuesday April 4, 2017,  7  PM
-    * Contact: embrodski (at) gmail.com
+      * Tuesday April 4, 2017, 7 PM
+      * Tuesday June 6, 2017, 7 PM
+    * Contact:
+      * stevenjzuber (at) gmail.com
+      * [Meetup.com group](https://www.meetup.com/Denver-Rationality/)
+      * [Facebook group](https://www.facebook.com/groups/969594296461197/)
 
 * Dublin
     * Additional search keywords: Ireland
@@ -237,9 +247,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
         * https://goo.gl/forms/PELx8wYtCfG0MSz93
 
 * Houston
-    * Meetup scheduled: Wednesday, April 26, 2017,  5  PM
-      * Location: 300 Main St, Honeymoon Cafe & Bar
-    * Contact: ssc (at) donnieclapp.com
+    * Meetup scheduled: TBD (contact Donnie below to be added to the mailing list)
+    * Previous meetups:
+      * Wednesday, April 26, 2017,  5  PM
+    * Contact: ssc (at) donnieclapp.com, (406) 686-6162
 
 * Istanbul
     * Additional search keywords: Constantinople, Byzantium
@@ -288,8 +299,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: piers199 (at) umn.edu
 
 * Montreal
-    * Meetup scheduled: Friday, April 14, 2017,  6  PM
-      * Location: 1191 Avenue Hope (private residence)
+    * Meetup scheduled: See the Facebook page
     * Details: Not an SSC-specific group, but SSC fans are always welcome at the Macroscope's events!
     * Contact: 
       * mathieu.roy.37 (at) gmail.com
@@ -360,11 +370,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Previous meetups:
       * Thursday April 6, 2017,  7  PM
     * Contact: mpobrie3 (at) ncsu.edu
-
-* Rochester, New York
-    * Meetup scheduled: Sunday April 9, 2017,  1  PM
-      * Location: 200 East Avenue, SPoT Coffee
-    * Contact: thecommexokid (at) gmail.com
 
 * Sacramento
     * Meetup scheduled: Saturday April 8, 2017,  6  PM
