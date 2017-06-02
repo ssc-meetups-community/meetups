@@ -34,3 +34,9 @@
     * Previous meetups:
       * Wednesday April 12, 2017,  7  PM
     * Contact: [Google Group](https://groups.google.com/forum/#!forum/slate-star-codex-oxford)
+    
+* Rochester, New York
+    * Five people attended first meetup; no current plans for future events
+    * Previous meetups: 
+      * Sunday April 9, 2017,  1  PM
+    * Contact: thecommexokid (at) gmail.com
