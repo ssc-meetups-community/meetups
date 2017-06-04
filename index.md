@@ -392,7 +392,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 [comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
-
     * Meetup scheduled: June 05, 2017, 06:15 PM
     * Topic: Projects
     * Location: [1769 15th St, San Francisco, CA 94103-3333, United States](https://www.google.com/maps/place/1769+15th+St%2C+San+Francisco%2C+CA+94103-3333%2C+United+States)
