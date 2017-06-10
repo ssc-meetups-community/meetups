@@ -153,6 +153,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: a.pearson.851( a t )hotmail.com
 
 * Cambridge (UK)
+    * Form [here](https://goo.gl/forms/vtaFRLqOUEKtnxuj2) for organising the third meetup.
     * Meetup scheduled: TBC
       * Location: TBC
     * Contact: rlm72 (at) cam.ac.uk
