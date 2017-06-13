@@ -172,10 +172,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: james (at) limetribe.com
 
 * Chicago [LW]
-    * Meetup scheduled: Sunday April 9, 2017,  1  PM
-      * Location: 1116 E 59th St, Harper Memorial Library, Room 148
+    * Meetup scheduled: Every Sunday 1-3 PM (reading group)
+      * Location: Harold Washington Library
     * Contact: 
-      * mingyuan( a t )uchicago.edu
+      * p.a.e.wallis (at) gmail.com (reading group)
+      * rkrzyzanowski (at) gmail.com (social events)
       * [Facebook group](https://www.facebook.com/groups/1845172645703147/)
       * [Google Group](https://groups.google.com/forum/#!forum/ssc-chicago)
 
