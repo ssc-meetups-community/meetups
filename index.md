@@ -135,10 +135,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: [Email](https://www.google.com/recaptcha/mailhide/d?k=01IKPjPBy18zQxT_W9QvGCdw==&c=gvSENXwCsyaESLywx_wrGw==)
 
 * Boston
+    * Regular meetups: Monthly at MIT, currently scheduled on a somewhat ad hoc basis
     * Additional search keywords: Cambridge (US)
-    * Meetup scheduled: Sunday May 14, 2017,  2  PM (also an _Unsong_ wrap party!)
+    * Meetup scheduled: Saturday, June 24, 2017, 2 PM
       * Location: MIT 5-234
-    * Contact: [Mailing list](https://groups.google.com/forum/#!contactowner/ssc-boston), [Facebook event](https://www.facebook.com/events/1538533946190765/)
+    * Previous meetups:
+      * April 14, May 15
+    * Contact: [Mailing list](https://groups.google.com/forum/#!contactowner/ssc-boston), [Facebook event](https://www.facebook.com/events/332211633880565/)
 
 * Brisbane
     * Meetup scheduled: Friday, May 26, 2017
