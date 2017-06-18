@@ -157,12 +157,12 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Cambridge (UK)
     * Form [here](https://goo.gl/forms/vtaFRLqOUEKtnxuj2) for organising the third meetup.
-    * Meetup scheduled: TBC
-      * Location: TBC
+    * Meetup scheduled: Wednesaday June 21, 7 PM
+      * Location: The Burleigh Arms
     * Contact: rlm72 (at) cam.ac.uk
     * Previous meetups:
       * April 22, May 10
-    * Third meetup will probably be some time in June. Email me with any questions, or if you want to join the Facebook group.
+    * Email me with any questions, or if you want to join the Facebook group.
 
 * Canberra
     * Meetup scheduled: Saturday, April 8, 2017, 11 AM
