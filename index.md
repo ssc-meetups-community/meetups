@@ -144,10 +144,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: [Mailing list](https://groups.google.com/forum/#!contactowner/ssc-boston), [Facebook event](https://www.facebook.com/events/332211633880565/)
 
 * Brisbane
-    * Meetup scheduled: Friday, May 26, 2017
-      * Location: The Boiler Room, Fortitude valley (I'll be wearing a red Pizza John jumper)
+    * Meetup scheduled: Friday, June 23, 2017
+      * Location: Riverbar, Brisbane City (Table as far from the story bridge as the venue allows for)
     * Previous meetups:
       * Friday, April 14, 2017,  7  PM
+      * Friday, May 26, 2017,  7  PM
     * Contact: jarred.filmer( a t )gmail.com
 
 * Budapest
