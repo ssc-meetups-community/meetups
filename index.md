@@ -190,12 +190,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: robintanenbaum (at) gmail.com
 
 * Columbus
-    * Meetup scheduled: Saturday May 27, 2017, 2 PM
-      * Location: 1069 Jaeger St, Columbus, OH 43206 Schiller Park (northwest quadrant)
+    * Meetup scheduled: (In Planning)
     * Previous meetups:
-      * Saturday, April 15, 2017,  2  PM
+      * Saturday May 27, 2017, 2 PM
+      * Saturday April 15, 2017,  2 PM
     * Contact: 
-      * j.thomas.moros (at) gmail.com
+      * danielle.lanz0 (at) gmail.com
+      * [Meetup.com Group](https://www.meetup.com/Columbus-Slate-Star-Codex-Meetup/)
       * email to be added to the Google group mailing list
 
 * Cologne [LW]
