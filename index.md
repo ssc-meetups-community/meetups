@@ -87,9 +87,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Facebook group]( https://www.facebook.com/groups/SlateStarCodexAmsterdam/)
 
 * Ann Arbor [LW]
-    * Meetup scheduled: Saturday, April 8, 2017,  4  PM
-      * Location: 2065 Commerce Blvd #327
-    * Contact: azure (at) eclectic.blue
+    * Regular meetups: Every other Saturday, from 4 PM until about midnight, usually near downtown Ann Arbor
+    * Contact: 
+      * [Google group](https://groups.google.com/forum/#!topic/a4r-a2/JmBQ8Mb-xnQ)
+      * [Website](http://memeware.org/A4RA2/)
+      * azure (at) eclectic.blue
 
 * Atlanta
     * Meetup scheduled: Second Sunday of the month, 7 PM
@@ -103,35 +105,34 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Austin [LW]
     * Regular meetups: Every Saturday at 1:30 PM
       * Location: 4001 N Lamar Blvd, North Lamar Central Market in-store cafe
-    * Previous meetups:
-      * Saturday April 8, 2017,  1:30  PM
     * Contact: [Google group](https://groups.google.com/forum/#!forum/austin-less-wrong)
 
 * Baltimore [LW]
-    * Meetup scheduled: Sunday April 9, 2017,  8  PM
+    * Regular meetups: Every Sunday at 8  PM
       * Location: UMBC Performing Arts & Humanities Building, 4th floor
     * Contact: lw (at) noblejury.com
 
-* Berlin
-    * Meetup scheduled: Sunday April 23, 2017,  7  PM
-      * Location: Gaststätte Walhalla, Krefelderstr.6, 10555 Berlin, Germany
-    * Contact: 
-      * Marcel Ackermann
-      * [Meetup.com event](https://www.meetup.com/de-DE/LessWrong-Rationality-WaitButWhy-SlateStarCodex-Berlin/)
-      * [LessWrong Berlin](http://lesswrong.de)
-      * tiberius101 (at) protonmail.com
-
 * Berkeley
-    * Meetup scheduled: Sunday April 9, 2017,  2  PM
-      * Location: 21 Shattuck Ave, 85C Bakery Cafe, probably upstairs
+    * Meetup scheduled: Unknown
     * Previous meetups:
       * Sunday April 9, 2017,  2  PM
       * Tuesday May 16, 2017
     * Contact: brianwang712 (at) gmail.com
+    
+* Berlin
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Sunday April 23, 2017,  7  PM
+    * Contact: 
+      * [Meetup.com event](https://www.meetup.com/de-DE/LessWrong-Rationality-WaitButWhy-SlateStarCodex-Berlin/)
+      * [LessWrong Berlin website](http://lesswrong.de)
+      * [LessWrong Berlin Google group](https://groups.google.com/forum/#!forum/lw-berlin)
+      * tiberius101 (at) protonmail.com
 
 * Birmingham (UK)
-    * Meetup scheduled: Saturday April 8, 2017, 12 noon
-      * Location: Bacchus Bar, Burlington Arcade, B2 4JH
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 8, 2017, 12 noon
     * Contact: [Email](https://www.google.com/recaptcha/mailhide/d?k=01IKPjPBy18zQxT_W9QvGCdw==&c=gvSENXwCsyaESLywx_wrGw==)
 
 * Boston
@@ -149,30 +150,36 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Previous meetups:
       * Friday, April 14, 2017,  7  PM
       * Friday, May 26, 2017,  7  PM
-    * Contact: jarred.filmer( a t )gmail.com
+    * Contact: 
+      * jarred.filmer (at) gmail.com
+      * [LessWrong Brisbane Facebook group](https://www.facebook.com/groups/1469995636588748/)
 
 * Budapest
-    * Meetup scheduled: Saturday April 8, 2017,  2:30  PM
-      * Location: Dohány utca 7, Corvinus Cafe
-    * Contact: a.pearson.851( a t )hotmail.com
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 8, 2017,  2:30  PM
+    * Contact: a.pearson.851 (at) hotmail.com
 
 * Cambridge (UK)
     * Form [here](https://goo.gl/forms/vtaFRLqOUEKtnxuj2) for organising the third meetup.
     * Meetup scheduled: Wednesaday June 21, 7 PM
       * Location: The Burleigh Arms
-    * Contact: rlm72 (at) cam.ac.uk
     * Previous meetups:
       * April 22, May 10
-    * Email me with any questions, or if you want to join the Facebook group.
+    * Contact: rlm72 (at) cam.ac.uk
+      * Email me with any questions, or if you want to join the Facebook group
 
 * Canberra
-    * Meetup scheduled: Saturday, April 8, 2017, 11 AM
-      * Location: Cafe Cherry Bean in Gungahlin
-    * Contact: nathan.ashby (at) yahoo.com.au
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday, April 8, 2017, 11 AM
+      * May 2017
+    * Contact: Unknown (if you are the contact person for the Canberra meetup, please create an issue)
 
 * Charlotte
-    * Meetup scheduled: Tuesday, April 25, 2017, 12 noon
-      * Location: 545 Providence Road, Starbucks on 3rd
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Tuesday, April 25, 2017, 12 noon
     * Contact: james (at) limetribe.com
 
 * Chicago [LW]
@@ -185,8 +192,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Google Group](https://groups.google.com/forum/#!forum/ssc-chicago)
 
 * Cleveland
-    * Meetup scheduled: Sunday April 9, 2017,  2  PM
-      * Location: 11150 East Boulevard, Museum of Art atrium
+    * Meetup scheduled: Unknown
+    * Previous meetups:    
+      * Sunday April 9, 2017,  2  PM
     * Contact: robintanenbaum (at) gmail.com
 
 * Columbus
@@ -205,9 +213,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: marcel_mueller (at) mail.de
 
 * Dallas
-    * Meetup scheduled: Saturday April 15, 2017,  2  PM
-      * Location: 3700 McKinney Ave #108, Brewed & Pressed
-    * Contact: ???
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 15, 2017,  2  PM
+    * Contact: Unknown (if you are the contact person for the Dallas meetup, please create an issue)
 
 * Denver [LW]
     * Regular meetups: Generally the first Tuesday of every month at 7 PM
@@ -223,8 +232,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Dublin
     * Additional search keywords: Ireland
-    * Meetup scheduled: Wednesday, April 12, 2017,  6  PM
-      * Location: O’Neills, Pearse Street, Dublin 2.
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Wednesday, April 12, 2017,  6  PM
     * Contact: egoburnswell (at) gmail.com
 
 * Edinburgh
@@ -238,8 +248,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Facebook group](https://www.facebook.com/groups/1023847387749311/)
 
 * Edmonton
-    * Meetup scheduled: Saturday April 15, 2017,  2  PM
-      * Location: 8631 109 St NW, the Remedy in Garneau
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 15, 2017,  2  PM
     * Contact: alt.acct (at) gmx.com
 
 * Helsinki
@@ -252,7 +263,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
         * Monday, April 10, 2017,  4  PM
     * Contact:
         * sschelsinkimeetup (at) gmail.com
-        * https://groups.google.com/group/ssc-helsinki-meetup-google-group
+        * [Google group](https://groups.google.com/group/ssc-helsinki-meetup-google-group)
 
 * Houston
     * Meetup scheduled: TBD (contact Donnie below to be added to the mailing list)
@@ -261,29 +272,34 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: ssc (at) donnieclapp.com, (406) 686-6162
 
 * Istanbul
+    * Meetup scheduled: Unknown
     * Additional search keywords: Constantinople, Byzantium
-    * Meetup scheduled: Tuesday, April 11, 2017,  8  PM
-      * Location: Plaza in the middle of [Bomontiada](https://www.google.com.tr/maps/place/bomontiada/@41.058487,28.9785293,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab7175e22bf43:0x73674c40205aec4d!8m2!3d41.058487!4d28.980718?hl=en)
+    * Previous meetups:
+      * Tuesday, April 11, 2017,  8  PM
     * Contact: ssc (at) briancloutier.com
 
 * London
-    * Meetup scheduled: [Sunday May 28, 2017, 2 PM](https://www.facebook.com/events/1031924280242728/)
-      * Location: Shakespeare’s Head, Holborn (On Kingsway, just south of the tube station – NOT the Shakespeare’s Head in Soho.)
-    * Details: Meetups every other Sunday at 2 PM, usually in the same pub but with occasional changes (especially with nice weather when we might go to the nearby park).
+    * Meetup scheduled: Every other Sunday at 2 PM
+      * Location: Usually in Shakespeare’s Head, Holborn (on Kingsway, just south of the tube station – NOT the Shakespeare’s Head in Soho) but with occasional changes, especially with nice weather when we might go to the nearby park.
     * Previous meetups:
-      * Sunday, April 30, 2017, 2 PM
+      * Sunday April 30, 2017, 2 PM
+      * [Sunday May 28, 2017, 2 PM](https://www.facebook.com/events/1031924280242728/)
     * Contact: 
       * philip.hazelden (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/380103898766356/)
 
 * Los Angeles [LW]
-    * Meetup scheduled: Wednesday April 5, 2017,  7  PM
-      * Location: 10850 West Pico at Westwood Boulevard, Wine Bar At The Landmark
-    * Contact: [Google group](https://groups.google.com/forum/#!forum/lw-socal-announce)
+    * Meetup scheduled: Unknown, try checking Google group
+    * Previous meetups:
+      * Wednesday April 5, 2017,  7  PM
+    * Contact: 
+      * [Google group](https://groups.google.com/forum/#!forum/lw-socal-announce)
+      * If you are the contact person for the Los Angeles meetup, please create an issue
 
 * Madison
-    * Meetup scheduled: Sunday, April 9, 2017,  7  PM
-      * Location: 114 State Street, Michelangelo’s Coffee House
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Sunday, April 9, 2017,  7  PM
     * Contact: nathanielbude (at) gmail.com
 
 * Miami
@@ -295,15 +311,16 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * eric135033 (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/1931644027057534/)
     
-
 * Milwaukee
-    * Meetup scheduled: Saturday, April 8, 2017,  1  PM
-      * Location: 2301 S Kinnickinnic Ave, Colectivo Coffee Shop
-    * Contact: ???
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday, April 8, 2017,  1  PM
+    * Contact: Unknown (if you are the contact person for the Milwaukee meetup, please create an issue)
 
 * Minneapolis
-    * Meetup scheduled: Saturday, May 20, 2017, 10 AM
-      * Location: 425 14th Ave SE, Dinkytown Starbucks
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday, May 20, 2017, 10 AM
     * Contact: piers199 (at) umn.edu
 
 * Montreal
@@ -315,30 +332,36 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Macroscope Facebook page](https://www.facebook.com/macroscopers/)
 
 * New Haven
-    * Meetup scheduled: Saturday April 8, 2017,  2  PM
-      * Location: 1140 Chapel, Book Trader Cafe
+    * Meetup scheduled: Unknown
+    * Previous meetups: 
+      * Saturday April 8, 2017,  2  PM
     * Contact: elizah.stein (at) gmail.com
 
 * New York City
     * Additional search keywords: NYC
-    * Meetup scheduled: Saturday April 22, 2017,  2  PM
-      * Location: 353 W 14th St, Gansevoort Market, main seating area at north end
-    * Contact: deluks917 (at)  gmail.com
+    * Meetup scheduled: Unknown
+    * Previous meetups: 
+      * Saturday April 22, 2017,  2  PM
+    * Contact: deluks917 (at) gmail.com
 
 * Online
     * Additional search keywords: Africa
-    * Meetup scheduled: Monday, May 15, 2017,  4  PM South Africa time (UTC+2)
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Monday, May 15, 2017,  4  PM South Africa time (UTC+2)
       * Location: [This Google Hangout link](https://hangouts.google.com/hangouts/_/calendar/ZGF6dWNrQGdtYWlsLmNvbQ.o85s22l4o6g0df18kllsrm71l8?authuser=0)
     * Contact: dazuck@gmail.com
 
 * Ottawa
-    * Meetup scheduled: Saturday April 15, 2017,  3  PM
-      * Location: 361 Elgin at Gladstone, Lieutenant’s Pump
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 15, 2017,  3  PM
     * Contact: conor.meade (at) gmail.com
 
 * Paris
-    * Meetup scheduled: Saturday April 8, 2017,  2  PM
-      * Location: Métro 12 Mairie d’Issy, private residence, contact number below for full address
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 8, 2017,  2  PM
     * Contact: 0659427285
 
 * Philadelphia
@@ -353,22 +376,24 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Google group](https://groups.google.com/forum/#!forum/lesswrong-philadelphia)
 
 * Phoenix
-    * Meetup scheduled: Saturday April 8, 2017, noon
-      * Location: Granada Park (20th St and Bethany Home, right off the 51)
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 8, 2017, noon
     * Contact: 
       * spinystellate1 (at) gmail.com
       * [Google Group](https://groups.google.com/forum/#!forum/slate-star-codex-phoenix)
 
 * Pittsburgh
-    * Meetup scheduled: Saturday April 8, 2017,  2  PM
-      * Location: 4327 Butler St, Floor 2, Catapult Coworking
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 8, 2017,  2  PM
     * Contact: matthewfmarks (at) gmail.com
 
 * Portland
-    * Meetup scheduled: Saturday June 10, 2017
-      * Monthly meetups, contact Noah for details (email address below)
+    * Regular meetups: Monthly, contact Noah for details (email address below)
     * Previous meetups:
       * Saturday April 8, 2017,  12:30  PM
+      * Saturday June 10, 2017
     * Contact: nwalton125 (at) gmail.com
 
 * Raleigh
@@ -381,20 +406,21 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: mpobrie3 (at) ncsu.edu
 
 * Sacramento
-    * Meetup scheduled: Saturday April 8, 2017,  6  PM
-      * Location: 1730 L St, Midtown Crepeville
-    * Contact: trevoradf (at) gmail.com.
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 8, 2017,  6  PM
+    * Contact: trevoradf (at) gmail.com
 
 * Salt Lake City
-    * Meetup scheduled: Saturday April 8, 2017,  1:30  PM
-      * Location: 1766 Main St, Pho Tay Ho
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 8, 2017,  1:30  PM
 
 * San Diego
-    * Meetup scheduled: Monday May 22, 2017, 7:30 PM
-      * Location: LeStat's Hillcrest, 1041 University Ave San Diego, CA 92103
-    * Details: We plan on meeting once a month but I have no specified a date or time for the next one.
+    * Regular meetups: Monthly, see Facebook group
     * Previous meetups:
       * Saturday April 22, 2017,  4  PM
+      * Monday May 22, 2017, 7:30 PM
     * Contact: 
       * the.god.empress.celestia (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/1944288489124568/)
@@ -410,10 +436,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
-    * Meetup scheduled: Sunday May 7, 2017, 2:00 PM
+    * Meetup scheduled: Unknown, contact David for details
       * Location: 3806 Williams Rd (private residence)
     * Previous meetups:
         * Sunday April 9, 2017,  2  PM
+        * Sunday May 7, 2017, 2 PM
     * Contact:
         * ddfr (at) daviddfriedman.com, (408) 244-3330
         * [link](http://www.daviddfriedman.com/Miscellaneous/SSC%20Meetup.html)
@@ -431,23 +458,24 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: [Facebook group](https://www.facebook.com/groups/seattlerationality/)
 
 * St. Louis
-    * Meetup scheduled: Sunday April 23, 2017,  1  PM
-      * Location: 3974 Hartford St, Hartford Coffee
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Sunday April 23, 2017,  1  PM
     * Contact: brerwolf (at) gmail.com
 
 * Stockholm
     * Additional search keywords: Sweden
-    * Meetup scheduled: Saturday June 3, 2017, 3 PM
     * Regular meetups: First Saturday of every month, 3 PM
       * Location: Stora Nygata 31, Cafe Dox
     * Previous meetups: 
       * Saturday April 8, 2017,  3  PM
+      * Saturday June 3, 2017, 3 PM
     * Contact: 
       * erik.e.engelhardt (at) gmail.com
       * [Meetup page](https://www.meetup.com/Stockholm-Lesswrong/)
 
 * Sydney [LW]
-    * Meetup scheduled: see Meetup.com link below.
+    * Meetup scheduled: See Meetup.com link below.
     * Details: Regular monthly rationality/LW/SSC meetup
     * Previous meetups:
         * Thursday April 20, 2017,  6  PM
@@ -456,24 +484,25 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Tel Aviv [LW]
     * Additional search keywords: Israel, Haifa, Jerusalem
-    * Meetup scheduled: Tuesday, June 6, 2017,  7  PM
+    * Regular meetups: Almost every Tuesday, see Facebook group
       * Location: Usually at The Cluster, Yigal Alon 118, Tel Aviv, but see the Facebook events
-    * Details: LessWrong Israel is also a SlateStarCodex meetup -- same cool people, same fascinating ideas.. We meet almost every Tuesdays: Monthly, we have lectures or similar events; at a two-week offset from those we have "Game Nights" -- but you can also just come and hang out. Other Tuesdays, we often get together at a pub. We've been going strong for five or so years.
+    * Details: LessWrong Israel is also a SlateStarCodex meetup -- same cool people, same fascinating ideas. We meet almost every Tuesdays: Monthly, we have lectures or similar events; at a two-week offset from those we have "Game Nights" -- but you can also just come and hang out. Other Tuesdays, we often get together at a pub. We've been going strong for five or so years.
     * Previous meetups:
       * Tuesday, May 9, 2017,  7  PM
+      * Tuesday, June 6, 2017,  7  PM
     * Contact:
       * [Facebook group](https://www.facebook.com/groups/480249315379682/)
 
 * Toronto [LW]
-    * Meetup scheduled: Saturday, May 27, 2017, 1 PM
-      * Location: 27 Wellesley Street East, The Fox and the Fiddle, 3rd floor
-    * Contact:
-        * jessriedel( a t )gmail.com
-        * [Meetup page](https://www.meetup.com/Less-Wrong-Toronto/)
-    * Details: [see here](https://github.com/ssc-meetups-community/meetups/issues/1#issue-225170772)
+    * Meetup scheduled: See Meetup.com page
+    * Details: Toronto SSC has taken over the previously dormant Toronto LessWrong meetup.com group. The first SSC meetup was successful, with >25 attendees.
     * Previous meetups:
         * Saturday April 22, 2017,  1  PM
-
+        * Saturday May 27, 2017, 1 PM
+    * Contact:
+        * jessriedel (at) gmail.com
+        * [Meetup page](https://www.meetup.com/Less-Wrong-Toronto/)
+        
 * Vienna [LW]
     * Additional search keywords: Prague, Bratislava, Austria, Czech, Slovakia
     * Meetup scheduled: See Facebook group
@@ -485,8 +514,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
       
 * Warsaw
     * Additional search keywords: Poland
-    * Meetup scheduled: Saturday April 22, 2017,  5  PM
-      * Location: Panstwo Miasto, Andersa 29 (Pokoj Spotkan),
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 22, 2017,  5  PM
     * Contact: michal.trzesimiech (at) gmail.com
 
 * Washington DC
@@ -496,25 +526,22 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Saturday April 15, 2017,  7  PM
       * Saturday May 20, 2017
     * Contact: robirahman94 (at) gmail.com
-
-* Washington DC secondary option [LW]
-    * Meetup scheduled: Sunday April 23, 2017,  3:30  PM
-      * Location: 8th St NW & F St NW, Portrait Gallery Courtyard
-    * Contact: 
+    * See also LessWrong DC
       * lesswrong-dc (at) googlegroups.com
       * [Facebook group](https://www.facebook.com/groups/LessWrongDC)
 
 * Wellington
     * Additional search keywords: New Zealand
-    * Meetup scheduled: Friday, May 19, 2017, 6PM
-      * Location: Hashigo Zake
+    * Meetup scheduled: Unknown
     * Previous meetups:
-        * Thursday, April 20, 2017, 6PM
+        * Thursday April 20, 2017, 6 PM
+        * Friday May 19, 2017, 6 PM
     * Contact: CalebWithersNZ on Facebook, calebwithers (at) gmail.com, 0221371337
         * Consider making contact if you're showing up for the first time, so you can be kept in the loop if there are any last-minute location changes etc.
 
 * Zurich [LW]
     * Additional search keywords: Switzerland
-    * Meetup scheduled: Saturday April 8, 2017,  5  PM
-      * Location: Tibits Oerlikon, Tramstrasse 2, 8050
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 8, 2017,  5  PM
     * Contact: thiel.marko (at) cantab.net
