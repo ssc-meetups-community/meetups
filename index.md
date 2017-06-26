@@ -161,11 +161,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: a.pearson.851 (at) hotmail.com
 
 * Cambridge (UK)
-    * Form [here](https://goo.gl/forms/vtaFRLqOUEKtnxuj2) for organising the third meetup.
-    * Meetup scheduled: Wednesaday June 21, 7 PM
-      * Location: The Burleigh Arms
+    * Next meetup will probably be next term (early October). If you're interested in organising one before then, email me.
     * Previous meetups:
-      * April 22, May 10
+      * April 22, May 10, June 21
     * Contact: rlm72 (at) cam.ac.uk
       * Email me with any questions, or if you want to join the Facebook group
 
