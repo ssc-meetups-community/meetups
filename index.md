@@ -3,6 +3,8 @@
 
 ## The Unofficial SSC Meetup Repository
 
+[See here for map of meetup locations](https://www.mapcustomizer.com/map/SSC%20Meetups%207%2F2017)
+
 [See here for meetup data commit history](https://github.com/ssc-meetups-community/meetups/commits/master)
 
 ### What is this?
