@@ -140,11 +140,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Boston
     * Regular meetups: Monthly at MIT, currently scheduled on a somewhat ad hoc basis
     * Additional search keywords: Cambridge (US)
-    * Meetup scheduled: Saturday, June 24, 2017, 2 PM
-      * Location: MIT 5-234
+    * Meetup scheduled: Saturday, July 15, 2017, 2 PM
+      * Location: MIT 1-135
     * Previous meetups:
-      * April 14, May 15
-    * Contact: [Mailing list](https://groups.google.com/forum/#!contactowner/ssc-boston), [Facebook event](https://www.facebook.com/events/332211633880565/)
+      * April 14, May 15, June 24
+    * Contact: [Mailing list](https://groups.google.com/forum/#!contactowner/ssc-boston), [Facebook event](https://www.facebook.com/events/152510128631096/)
 
 * Brisbane
     * Meetup scheduled: Friday, June 23, 2017
