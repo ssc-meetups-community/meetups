@@ -297,12 +297,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Facebook group](https://www.facebook.com/groups/380103898766356/)
 
 * Los Angeles [LW]
-    * Meetup scheduled: Unknown, try checking Google group
+    * Meetup scheduled: Every Wednesday, 7 PM
+    * Location: Wine Bar next to the Landmark Theater in the Westside Pavilion (10800 W Pico Blvd #312, Los Angeles, CA 90064)
     * Previous meetups:
-      * Wednesday April 5, 2017,  7  PM
+        * Wednesday April 5, 2017,  7  PM
+    * Details: Regular meetups (as of 2017-07-13). See [here](https://github.com/ssc-meetups-community/meetups/issues/11#issue-242788488) for information on parking and how to obtain Google Hangouts invite.
     * Contact: 
-      * [Google group](https://groups.google.com/forum/#!forum/lw-socal-announce)
-      * If you are the contact person for the Los Angeles meetup, please create an issue
+        * [Google group](https://groups.google.com/forum/#!forum/lw-socal-announce), bobert.mushky (at) gmail.com
 
 * Madison
     * Meetup scheduled: Unknown
