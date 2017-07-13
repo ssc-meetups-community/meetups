@@ -21,7 +21,7 @@ If the meetup has some kind of contact details (email, FB group, Google group, a
 
 We'd appreciate if you created an external webpage (or similar) in the public internet that you regularly update, and [then tell us about it](https://github.com/ssc-meetups-community/meetups/issues) so that we can link to there.
 
-Some popular platforms to advertise your meetup  are e.g. [Meetup.com](https://www.meetup.com/), [Google Group](https://groups.google.com), public Facebook event, public blog, etc etc.
+Some popular platforms to advertise your meetup are e.g. [Meetup.com](https://www.meetup.com/), [Google Group](https://groups.google.com), public Facebook event, public blog, [LessWrong meetup event](http://lesswrong.com/meetups/) , etc etc.
 
 ### Okay, I have a public webpage / FB event / Meetup.com / a Thing, what next?
 
@@ -33,6 +33,14 @@ Let us know!
 ### Your information is outdated!
 
 If you see outdated information / want to get your email off the list / have a suggestion, please create an [issue](https://github.com/ssc-meetups-community/meetups/issues) (see above) or if you know how to github, a [pull request](https://github.com/ssc-meetups-community/meetups/pulls).
+
+### Other SSC-aligned activities?
+
+If you did not find any meetups near you on this list, do not despair.
+You might consider checking if there's [LessWrong](http://lesswrong.com/meetups/) activity near you.
+(Alternatively you could think about organizing your own event.
+See [this](http://slatestarcodex.com/2017/04/03/ssc-meetups-everywhere-times-and-places/) and [this](http://slatestarcodex.com/2017/03/27/ssc-meetup-everywhere/) for advice.
+Possible avenues for advertising / finding out if there are other SSC readers nearby: [the open thread](http://slatestarcodex.com/tag/open/?latest), [subreddit](https://www.reddit.com/r/slatestarcodex/) and [Discord](https://discordapp.com/invite/gpaTCxh).)
 
 ### RSS?
 
