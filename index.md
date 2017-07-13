@@ -475,12 +475,14 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Meetup page](https://www.meetup.com/Stockholm-Lesswrong/)
 
 * Sydney [LW]
-    * Meetup scheduled: See Meetup.com link below.
-    * Details: Regular monthly rationality/LW/SSC meetup
+    * Meetup scheduled: Thursday July 27, 2017
+    * Details: Regular monthly rationality/LW/SSC social meetup on the 4th Thursday of each month. See Meetup.com + other links below.
     * Previous meetups:
         * Thursday April 20, 2017,  6  PM
     * Contact:
         * [Meetup page](https://www.meetup.com/rationalists_of_sydney/)
+        * [LW event for July meetup](http://lesswrong.com/meetups/1z9)
+        * [FB](https://www.facebook.com/events/290662784676309/?active_tab=about)
 
 * Tel Aviv [LW]
     * Additional search keywords: Israel, Haifa, Jerusalem
