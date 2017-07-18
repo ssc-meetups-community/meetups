@@ -271,7 +271,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
         * Monday, April 10, 2017,  4  PM
     * Contact:
         * sschelsinkimeetup (at) gmail.com
-        * [Google group](https://groups.google.com/group/ssc-helsinki-meetup-google-group)
+        * [Google group](https://groups.google.com/group/ssc-helsinki-meetup-google-group), [webpage](https://ssc-fans-hki.github.io/ssc-hki-meetup/)
 
 * Houston
     * Meetup scheduled: TBD (contact Donnie below to be added to the mailing list)
