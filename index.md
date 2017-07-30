@@ -138,12 +138,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [LessWrong Berlin Google group](https://groups.google.com/forum/#!forum/lw-berlin)
       * tiberius101 (at) protonmail.com
 
-* Birmingham (UK)
-    * Meetup scheduled: Unknown
-    * Previous meetups:
-      * Saturday April 8, 2017, 12 noon
-    * Contact: [Email](https://www.google.com/recaptcha/mailhide/d?k=01IKPjPBy18zQxT_W9QvGCdw==&c=gvSENXwCsyaESLywx_wrGw==)
-
 * Boston
     * Regular meetups: Monthly at MIT, currently scheduled on a somewhat ad hoc basis
     * Additional search keywords: Cambridge (US)
