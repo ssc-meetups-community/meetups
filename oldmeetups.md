@@ -9,6 +9,12 @@
 
 ### The SSC Meetups Everywhere: Inactive Meetups
 
+* Birmingham (UK)
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 8, 2017, 12 noon
+    * Contact: Unknown (if you are the contact person for the Birmingham meetup, please create an issue)
+
 * Canberra
     * Meetup scheduled: Unknown
     * Previous meetups:
