@@ -9,12 +9,25 @@
 
 ### The SSC Meetups Everywhere: Inactive Meetups
 
+* Canberra
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday, April 8, 2017, 11 AM
+      * May 2017
+    * Contact: Unknown (if you are the contact person for the Canberra meetup, please create an issue)
+
 * Copenhagen
     * Only 5 known interested people in Denmark, none committed
     * Additional search keywords: Denmark
     * Previous meetups:
       * Saturday April 8, 2017,  6  PM
     * Contact: soeren.elverlin (at) gmail.com
+
+* Dallas
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 15, 2017,  2  PM
+    * Contact: Unknown (if you are the contact person for the Dallas meetup, please create an issue)
 
 * Fullerton
     * Only 3 people showed up
@@ -28,6 +41,20 @@
     * Previous meetups:
       * Saturday May 6, 2017,  1  PM
     * Contact: a.l.whitespace (at) gmail.com
+
+* Milwaukee
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday, April 8, 2017,  1  PM
+    * Contact: Unknown (if you are the contact person for the Milwaukee meetup, please create an issue)
+
+* Online
+    * Additional search keywords: Africa
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Monday, May 15, 2017,  4  PM South Africa time (UTC+2)
+      * Location: [This Google Hangout link](https://hangouts.google.com/hangouts/_/calendar/ZGF6dWNrQGdtYWlsLmNvbQ.o85s22l4o6g0df18kllsrm71l8?authuser=0)
+    * Contact: dazuck@gmail.com
     
 * Oxford
     * No current plans for future meetups, but feel free to join the Google Group and message people there if you want to get something started
