@@ -87,11 +87,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Amsterdam
     * Additional search keywords: Netherlands
-    * Meetup scheduled: Saturday, June 10, 3 PM - 6 PM
-      * Location: De Prael, Oudezijds Armsteeg 26, 1012 GP Amsterdam, Netherlands 
     * Details: Meetups are regular but not on a fixed day yet
     * Previous meetups:
-      * Saturday, April 8, 2017,  7  PM
+      * Saturday April 8, 2017,  7  PM
+      * Saturday June 10, 2017, 3 PM
     * Contact: 
       * sonny.public (at) gmail.com
       * [Facebook group]( https://www.facebook.com/groups/SlateStarCodexAmsterdam/)
@@ -177,13 +176,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: rlm72 (at) cam.ac.uk
       * Email me with any questions, or if you want to join the Facebook group
 
-* Canberra
-    * Meetup scheduled: Unknown
-    * Previous meetups:
-      * Saturday, April 8, 2017, 11 AM
-      * May 2017
-    * Contact: Unknown (if you are the contact person for the Canberra meetup, please create an issue)
-
 * Charlotte
     * Meetup scheduled: Unknown
     * Previous meetups:
@@ -205,26 +197,21 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Sunday April 9, 2017,  2  PM
     * Contact: robintanenbaum (at) gmail.com
 
+* Cologne [LW]
+    * Meetups held monthly
+    * Details: Contact Marcel below to be added to the mailing list
+    * Contact: marcel_mueller (at) mail.de
+    
 * Columbus
     * Meetup scheduled: (In Planning)
     * Previous meetups:
       * Saturday May 27, 2017, 2 PM
       * Saturday April 15, 2017,  2 PM
+      * Sunday July 16, 2017
     * Contact: 
       * danielle.lanz0 (at) gmail.com
       * [Meetup.com Group](https://www.meetup.com/Columbus-Slate-Star-Codex-Meetup/)
-      * email to be added to the Google group mailing list
-
-* Cologne [LW]
-    * Meetups held monthly
-    * Details: Contact Marcel below to be added to the mailing list
-    * Contact: marcel_mueller (at) mail.de
-
-* Dallas
-    * Meetup scheduled: Unknown
-    * Previous meetups:
-      * Saturday April 15, 2017,  2  PM
-    * Contact: Unknown (if you are the contact person for the Dallas meetup, please create an issue)
+      * Email Danielle to be added to the Google group mailing list
 
 * Denver [LW]
     * Regular meetups: Generally the first Tuesday of every month at 7 PM
@@ -233,6 +220,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Previous meetups:
       * Tuesday April 4, 2017, 7 PM
       * Tuesday June 6, 2017, 7 PM
+      * Tuesday July 11, 2017, 7 PM
     * Contact:
       * stevenjzuber (at) gmail.com
       * [Meetup.com group](https://www.meetup.com/Denver-Rationality/)
@@ -246,8 +234,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: egoburnswell (at) gmail.com
 
 * Edinburgh
-    * Regular meetups: Sunday 6 PM, every 4 weeks
-      * Location: 14 Drummond Street, The Brass Monkey
+    * Meetup scheduled: Check Facebook group
     * Previous meetups:
       * Sunday April 23, 2017,  6  PM
       * Sunday May 21, 2017, 6 PM
@@ -290,8 +277,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Meetup scheduled: Every other Sunday at 2 PM
       * Location: Usually in Shakespeare’s Head, Holborn (on Kingsway, just south of the tube station – NOT the Shakespeare’s Head in Soho) but with occasional changes, especially with nice weather when we might go to the nearby park.
     * Previous meetups:
-      * Sunday April 30, 2017, 2 PM
-      * [Sunday May 28, 2017, 2 PM](https://www.facebook.com/events/1031924280242728/)
+      * Sunday June 25, 2017
+      * Sunday July 9, 2017
+      * Sunday July 23, 2017
     * Contact: 
       * philip.hazelden (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/380103898766356/)
@@ -299,11 +287,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Los Angeles [LW]
     * Meetup scheduled: Every Wednesday, 7 PM
     * Location: Wine Bar next to the Landmark Theater in the Westside Pavilion (10800 W Pico Blvd #312, Los Angeles, CA 90064)
-    * Previous meetups:
-        * Wednesday April 5, 2017,  7  PM
-    * Details: Regular meetups (as of 2017-07-13). See [here](https://github.com/ssc-meetups-community/meetups/issues/11#issue-242788488) for information on parking and how to obtain Google Hangouts invite.
+    * Details: Regular meetups every week since April 5, 2017 (as of 2017-07-13). See [here](https://github.com/ssc-meetups-community/meetups/issues/11#issue-242788488) for information on parking and how to obtain Google Hangouts invite.
     * Contact: 
-        * [Google group](https://groups.google.com/forum/#!forum/lw-socal-announce), bobert.mushky (at) gmail.com
+        * [Google group](https://groups.google.com/forum/#!forum/lw-socal-announce)
+        * bobert.mushky (at) gmail.com
 
 * Madison
     * Meetup scheduled: Unknown
@@ -320,12 +307,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * eric135033 (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/1931644027057534/)
     
-* Milwaukee
-    * Meetup scheduled: Unknown
-    * Previous meetups:
-      * Saturday, April 8, 2017,  1  PM
-    * Contact: Unknown (if you are the contact person for the Milwaukee meetup, please create an issue)
-
 * Minneapolis
     * Meetup scheduled: Unknown
     * Previous meetups:
@@ -353,14 +334,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Saturday April 22, 2017,  2  PM
     * Contact: deluks917 (at) gmail.com
 
-* Online
-    * Additional search keywords: Africa
-    * Meetup scheduled: Unknown
-    * Previous meetups:
-      * Monday, May 15, 2017,  4  PM South Africa time (UTC+2)
-      * Location: [This Google Hangout link](https://hangouts.google.com/hangouts/_/calendar/ZGF6dWNrQGdtYWlsLmNvbQ.o85s22l4o6g0df18kllsrm71l8?authuser=0)
-    * Contact: dazuck@gmail.com
-
 * Ottawa
     * Meetup scheduled: Unknown
     * Previous meetups:
@@ -374,11 +347,12 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: 0659427285
 
 * Philadelphia
-    * Meetup scheduled: Saturday June 10, 2017, 2pm
+    * Meetup scheduled: 
       * Location: Washington Square Park (rain location: Bourse Food Court), in Old City, Philadelphia
     * Details: Meetups are regular-ish, about once a month, but no set schedule
     * Previous meetups:
-      *  Saturday April 15, 2017,  2  PM
+      * Saturday April 15, 2017, 2 PM
+      * Saturday June 10, 2017, 2 PM
     * Contact: 
       * wfenza (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/1860821844172873/)
@@ -407,11 +381,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Raleigh
     * Additional search keywords: Research Triangle, Chapel Hill, Durham, North Carolina
-    * Meetup scheduled: Wednesday June 27, 2017,  7  PM
-      * Location: 219 Hood Street (Durham), Ponysaurus Brewing
+    * Meetup scheduled: Unknown
     * Previous meetups:
       * Wednesday May 10, 2017, 7 PM
       * Thursday April 6, 2017,  7  PM
+      * Wednesday June 27, 2017,  7  PM
     * Contact: mpobrie3 (at) ncsu.edu
 
 * Sacramento
@@ -424,6 +398,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Meetup scheduled: Unknown
     * Previous meetups:
       * Saturday April 8, 2017,  1:30  PM
+      * Friday July 14, 2017, 6 PM
 
 * San Diego
     * Regular meetups: Monthly, see Facebook group
@@ -456,6 +431,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Sao Paulo [LW]
     * Meetings monthly, but date & time & location are variable
+    * Previous meetups:
+      * 6 May 2017, 2 PM
+      * 10 June 2017, 2 PM
+      * 29 July 2017, 2 PM
     * Contact: 
       * gusbicalho (at) gmail.com
       * [Meetup.com](https://www.meetup.com/pt-BR/Racionalidade-em-Sao-Paulo/)
@@ -479,18 +458,21 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Previous meetups: 
       * Saturday April 8, 2017,  3  PM
       * Saturday June 3, 2017, 3 PM
+      * Saturday July 1, 2017, 3 PM
+      * Saturday July 29, 2017, 3 PM
     * Contact: 
       * erik.e.engelhardt (at) gmail.com
       * [Meetup page](https://www.meetup.com/Stockholm-Lesswrong/)
 
 * Sydney [LW]
-    * Meetup scheduled: Thursday July 27, 2017
     * Details: Regular monthly rationality/LW/SSC social meetup on the 4th Thursday of each month. See Meetup.com + other links below.
     * Previous meetups:
-        * Thursday April 20, 2017,  6  PM
+        * Thursday April 20, 2017, 6 PM
+        * Thursday May 18, 2017, 6 PM
+        * Thursday June 22, 2017, 6 PM
+        * Thursday July 27, 2017, 6 PM
     * Contact:
         * [Meetup page](https://www.meetup.com/rationalists_of_sydney/)
-        * [LW event for July meetup](http://lesswrong.com/meetups/1z9)
         * [FB](https://www.facebook.com/events/290662784676309/?active_tab=about)
 
 * Tel Aviv [LW]
@@ -499,8 +481,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Location: Usually at The Cluster, Yigal Alon 118, Tel Aviv, but see the Facebook events
     * Details: LessWrong Israel is also a SlateStarCodex meetup -- same cool people, same fascinating ideas. We meet almost every Tuesdays: Monthly, we have lectures or similar events; at a two-week offset from those we have "Game Nights" -- but you can also just come and hang out. Other Tuesdays, we often get together at a pub. We've been going strong for five or so years.
     * Previous meetups:
-      * Tuesday, May 9, 2017,  7  PM
-      * Tuesday, June 6, 2017,  7  PM
+      * Tuesday May 9, 2017, 7 PM
+      * Tuesday June 6, 2017, 7 PM
+      * Tuesday July 11, 2017, 8 PM
+      * Tuesday July 25, 2017, 7:30 PM
     * Contact:
       * [Facebook group](https://www.facebook.com/groups/480249315379682/)
 
@@ -531,11 +515,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: michal.trzesimiech (at) gmail.com
 
 * Washington DC
-    * Meetup scheduled: Saturday June 24, 2017 (recurring but irregular)
-      * Location: 450 Massachussetts Ave NW, The Meridian at Gallery Place, roof/14th floor lounge (private residence)
+    * Meetup scheduled: Meetups are recurring but irregular - check Facebook group
     * Previous meetups:
       * Saturday April 15, 2017,  7  PM
       * Saturday May 20, 2017
+      * Saturday June 24, 2017
     * Contact: robirahman94 (at) gmail.com
     * See also LessWrong DC
       * lesswrong-dc (at) googlegroups.com
