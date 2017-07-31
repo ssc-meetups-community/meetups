@@ -107,7 +107,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Atlanta
     * Meetup scheduled: Second Sunday of the month, 7 PM
-      * Location: Variable, usually ITP
+    * Details: Currently dormant for the summer; meetings may start again in September
     * Previous meetups:
       * Sunday April 9, 2017,  7  PM
     * Contact: 
@@ -535,7 +535,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Zurich [LW]
     * Additional search keywords: Switzerland
-    * Meetup scheduled: Unknown
+    * Meetup scheduled: Unknown, check Facebook group
     * Previous meetups:
       * Saturday April 8, 2017,  5  PM
-    * Contact: thiel.marko (at) cantab.net
+    * Contact: 
+      * [Facebook group](https://www.facebook.com/groups/RationalityZurich/)
+      * thiel.marko (at) cantab.net
