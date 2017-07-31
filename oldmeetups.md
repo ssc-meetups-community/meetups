@@ -67,6 +67,12 @@
     * Previous meetups:
       * Wednesday April 12, 2017,  7  PM
     * Contact: [Google Group](https://groups.google.com/forum/#!forum/slate-star-codex-oxford)
+
+* Paris
+    * Meetup scheduled: Unknown
+    * Previous meetups:
+      * Saturday April 8, 2017,  2  PM
+    * Contact: 0659427285
     
 * Rochester, New York
     * Five people attended first meetup; no current plans for future events
