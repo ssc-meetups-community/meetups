@@ -197,7 +197,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Cologne [LW]
     * Meetups held monthly
     * Details: Contact Marcel below to be added to the mailing list
-    * Contact: marcel_mueller (at) mail.de
+    * Contact: 
+      * [Mailing list](https://groups.google.com/forum/#!forum/lw-cologne)
+      * [Facebook group](https://www.facebook.com/groups/673464672717597/)
+      * marcel_mueller (at) mail.de
     
 * Columbus
     * Meetup scheduled: (In Planning)
