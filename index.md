@@ -486,7 +486,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Facebook group](https://www.facebook.com/groups/480249315379682/)
 
 * Toronto [LW]
-    * Meetup scheduled: See Meetup.com page
+    * Meetup scheduled: Saturday August 5, 2017. See Meetup.com page for details.
     * Details: Toronto SSC has taken over the previously dormant Toronto LessWrong meetup.com group. The first SSC meetup was successful, with >25 attendees.
     * Previous meetups:
         * Saturday April 22, 2017,  1  PM
