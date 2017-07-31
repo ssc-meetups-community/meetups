@@ -512,11 +512,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: michal.trzesimiech (at) gmail.com
 
 * Washington DC
-    * Meetup scheduled: Meetups are recurring but irregular - check Facebook group
+    * Meetup scheduled: Saturday August 19, 2017
+      * Location: 1700 Leighton Wood Lane, Silver Spring, Maryland
     * Previous meetups:
       * Saturday April 15, 2017,  7  PM
       * Saturday May 20, 2017
       * Saturday June 24, 2017
+      * Saturday July 22, 2017
     * Contact: robirahman94 (at) gmail.com
     * See also LessWrong DC
       * lesswrong-dc (at) googlegroups.com
