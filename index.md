@@ -125,7 +125,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: lw (at) noblejury.com
 
 * Berkeley
-    * Meetup scheduled: Unknown
+    * Meetup scheduled: Sunday August 6, 2017, 2 PM
+      * Location: 85C Bakery Cafe
     * Previous meetups:
       * Sunday April 9, 2017,  2  PM
       * Tuesday May 16, 2017
@@ -329,9 +330,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * New York City
     * Additional search keywords: NYC
-    * Meetup scheduled: Unknown
+    * Regular meetups: Tuesdays at 7:30 PM
+    * Details: The NYC SlateStarCodex meetups have mostly merged with the normal rationalist meetups, with an explicitly SSC themed meetup every two months on Saturdays. Anyone in NYC who is interested in SSC-related things and wants info should contact deluks917 (email below).
     * Previous meetups: 
       * Saturday April 22, 2017,  2  PM
+      * Saturday July 1, 2017
     * Contact: deluks917 (at) gmail.com
 
 * Ottawa
@@ -339,12 +342,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Previous meetups:
       * Saturday April 15, 2017,  3  PM
     * Contact: conor.meade (at) gmail.com
-
-* Paris
-    * Meetup scheduled: Unknown
-    * Previous meetups:
-      * Saturday April 8, 2017,  2  PM
-    * Contact: 0659427285
 
 * Philadelphia
     * Meetup scheduled: 
