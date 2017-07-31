@@ -90,7 +90,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Amsterdam
     * Additional search keywords: Netherlands
-    * Details: Meetups are regular but not on a fixed day yet
+    * Meetup scheduled: Wednesday August 2, 2017, 7 PM & Saturday September 2, 2017, 5 PM
+      * Cafe Batavia, Prinshendrikade 85, Amsterdam (usually)
+    * Details: To accommodate people with different schedules, we alternate between holding meetups on Wednesdays and Saturdays. In odd-numbered months, meetups are held the first Saturday of the month at 5 PM. In even-numbered months, meetups are held the first Wednesday of the month at 7 PM.
     * Previous meetups:
       * Saturday April 8, 2017,  7  PM
       * Saturday June 10, 2017, 3 PM
@@ -165,7 +167,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Meetup scheduled: Unknown
     * Previous meetups:
       * Saturday April 8, 2017,  2:30  PM
-    * Contact: a.pearson.851 (at) hotmail.com
+    * Contact: kovacsahun (at) hotmail.com
 
 * Cambridge (UK)
     * Next meetup will probably be next term (early October). If you're interested in organising one before then, email me.
@@ -300,8 +302,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: nathanielbude (at) gmail.com
 
 * Miami
-    * Meetup scheduled: See FB group link
-    * Location: 2390 NW 2nd Ave, Panther Coffee
+    * Meetup scheduled: Saturday August 5, 5 PM
+      * Location: Pasion del Cielo Coffee, 3301 NE 1st Ave #100
     * Previous meetups:
         * Saturday, April 29, 2017,  5  PM
     * Contact: 
