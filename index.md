@@ -537,9 +537,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Zurich [LW]
     * Additional search keywords: Switzerland
-    * Meetup scheduled: Unknown, check Facebook group
+    * Meetup scheduled: Check Facebook group
     * Previous meetups:
       * Saturday April 8, 2017,  5  PM
+      * Tuesday July 4, 2017
     * Contact: 
       * [Facebook group](https://www.facebook.com/groups/RationalityZurich/)
       * thiel.marko (at) cantab.net
