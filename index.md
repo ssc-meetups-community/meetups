@@ -17,6 +17,12 @@ We try to update the information of meetups, but we can't guarantee their veraci
 Especially the '(next) scheduled meetup' field is most likely *outdated*.
 If the meetup has some kind of contact details (email, FB group, Google group, anything) listed, we encourage that you try to contact them directly.
 
+### How to use this repository?
+
+Our current solution is very simple and low-tech (this is on purpose): this is a simple text file with some added pretty html.
+
+Press `Ctrl-F` in your web browser, and search for a location nearby you.
+
 ### I'm organizing a meetup, what I should do?
 
 We'd appreciate if you created an external webpage (or similar) in the public internet that you regularly update, and [then tell us about it](https://github.com/ssc-meetups-community/meetups/issues) so that we can link to there.
@@ -46,11 +52,8 @@ Possible avenues for advertising / finding out if there are other SSC readers ne
 
 GitHub provides automagical Atom feed of changes to the repository master branch at [https://github.com/ssc-meetups-community/meetups/commits/master.atom](https://github.com/ssc-meetups-community/meetups/commits/master.atom)
 
-### How to use this repository?
 
-Our current solution is very simple and low-tech (this is on purpose).
-
-Press `Ctrl-F` in your web browser, and search for a location nearby you.
+### How to contribute?
 
 Our format is as follows: [Optional fields marked with brackets.]
 
