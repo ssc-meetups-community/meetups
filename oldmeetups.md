@@ -48,6 +48,12 @@
       * Saturday May 6, 2017,  1  PM
     * Contact: a.l.whitespace (at) gmail.com
 
+* Madison
+    * Madison had about five meetups, of which about three gathered five or more people
+    * Previous meetups:
+      * Sunday, April 9, 2017,  7  PM
+    * Contact: nathanielbude (at) gmail.com
+    
 * Milwaukee
     * Meetup scheduled: Unknown
     * Previous meetups:
