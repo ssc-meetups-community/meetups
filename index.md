@@ -295,12 +295,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
         * [Google group](https://groups.google.com/forum/#!forum/lw-socal-announce)
         * bobert.mushky (at) gmail.com
 
-* Madison
-    * Meetup scheduled: Unknown
-    * Previous meetups:
-      * Sunday, April 9, 2017,  7  PM
-    * Contact: nathanielbude (at) gmail.com
-
 * Miami
     * Meetup scheduled: Saturday August 5, 5 PM
       * Location: Pasion del Cielo Coffee, 3301 NE 1st Ave #100
