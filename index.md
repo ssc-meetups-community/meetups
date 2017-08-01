@@ -469,6 +469,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Sydney [LW]
     * Meetup scheduled: Thursday August 24, 2017, 6 PM
+      * Location: Level 2, City of Sydney RSL, 565 George St, Sydney - we sit at the big table outside the pizza oven
     * Details: Regular monthly rationality/LW/SSC social meetup on the 4th Thursday of each month. See Meetup.com + other links below.
     * Previous meetups:
         * Thursday April 20, 2017, 6 PM
