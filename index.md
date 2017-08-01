@@ -231,7 +231,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Dublin
     * Additional search keywords: Ireland
-    * Meetup scheduled: Unknown
+    * Meetup scheduled: Likely in September, email to find out more
     * Previous meetups:
       * Wednesday, April 12, 2017,  6  PM
     * Contact: egoburnswell (at) gmail.com
@@ -340,10 +340,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: deluks917 (at) gmail.com
 
 * Ottawa
-    * Meetup scheduled: Unknown
+    * Meetup scheduled: Check Facebook group
+    * Details: Ottawa SSC is active and co-hosts events with the local effective altruism group
     * Previous meetups:
       * Saturday April 15, 2017,  3  PM
-    * Contact: conor.meade (at) gmail.com
+    * Contact: 
+      * conor.meade (at) gmail.com
+      * [Facebook group](https://www.facebook.com/groups/256824054474775/)
 
 * Philadelphia
     * Meetup scheduled: 
