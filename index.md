@@ -405,6 +405,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * San Diego
     * Regular meetups: Monthly, see Facebook group
+    * Meetup scheduled: Sunday August 13th, 2017, 3 PM
+      * Location: Pioneer Park (1521 Washington Pl, San Diego, CA 92103)
     * Previous meetups:
       * Saturday April 22, 2017,  4  PM
       * Monday May 22, 2017, 7:30 PM
