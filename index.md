@@ -295,6 +295,20 @@ The meetup groups we have not heard about in over ~two months should be moved to
         * [Google group](https://groups.google.com/forum/#!forum/lw-socal-announce)
         * bobert.mushky (at) gmail.com
 
+* Manchester UK
+    * Additional search keywords: Kernel Project
+    * Meetup scheduled: Monday August 14 6PM and Saturday August 19th 3PM
+      * Location: The Wharf, Manchester, M15 4ST - A nice pub overlooking the canals
+    * Regular meetups: Fortnightly, next meetup on 2nd September
+    * Details: We will likely sit outside if the weather is nice, this event is going to be part freeform discussion on the usual SSC/EA/LW topics and part structured discussion of the Kernel project (https://www.facebook.com/groups/425689721111423/) If you have any questions about the event, how to get there, what it's all about or anything at all don't hesitate to contact me (details below)
+    * [Previous meetups:]
+      *  None, this is the first
+    * Contact: 
+      * Email: benharrison795 at gmail dot com 
+      * Facebook: https://www.facebook.com/Benzy14 
+      * [Event page for Monday](https://www.facebook.com/events/1416361465121846/)
+      * [Event page for Saturday](https://www.facebook.com/events/487446944969040/)
+
 * Miami
     * Meetup scheduled: Saturday August 5, 5 PM
       * Location: Pasion del Cielo Coffee, 3301 NE 1st Ave #100
