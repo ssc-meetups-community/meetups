@@ -3,7 +3,7 @@
 
 ## The Unofficial SSC Meetup Repository
 
-[See here for map of meetup locations](https://www.mapcustomizer.com/map/SSC%20Meetups%207%2F2017)
+[See here for map of meetup locations](https://www.mapcustomizer.com/map/SSC%20Meetups%208%2F2017)
 
 [See here for meetup data commit history](https://github.com/ssc-meetups-community/meetups/commits/master)
 
@@ -369,7 +369,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Google group](https://groups.google.com/forum/#!forum/lesswrong-philadelphia)
 
 * Phoenix
-    * Meetup scheduled: Unknown
+    * Meetup scheduled: Currently dormant, join Google group to find out about future meetups
     * Previous meetups:
       * Saturday April 8, 2017, noon
     * Contact: 
