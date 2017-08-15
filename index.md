@@ -154,11 +154,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: [Mailing list](https://groups.google.com/forum/#!contactowner/ssc-boston), [Facebook event](https://www.facebook.com/events/1514348998632894/)
 
 * Brisbane
-    * Meetup scheduled: Friday, June 23, 2017
-      * Location: Riverbar, Brisbane City (Table as far from the story bridge as the venue allows for)
-    * Previous meetups:
-      * Friday, April 14, 2017,  7  PM
-      * Friday, May 26, 2017,  7  PM
+    * Meetup scheduled: The last Friday of every month
+      * Location: The Boiler Room, Fortitude Valley (Speakeasy behind Tomcat, Google for directions) 
     * Contact: 
       * jarred.filmer (at) gmail.com
       * [LessWrong Brisbane Facebook group](https://www.facebook.com/groups/1469995636588748/)
