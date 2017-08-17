@@ -380,15 +380,16 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: matthewfmarks (at) gmail.com
 
 * Portland
-    * Regular meetups: We meet the second weekend of each month, alternating Saturdays and Sundays.
-    * Meetup scheduled: Saturday August 12, 2017, 12:30 PM
+    * Regular meetups: We generally meet the second weekend of each month, alternating Saturdays and Sundays (note: this month we are meeting in the first weekend instead).
+    * Meetup scheduled: Sunday September 3, 2017, 12:30 PM
       * Location: Contact Noah for the location, or request to join the Facebook group (email and link below)
     * Detail: You can RSVP at https://rsvp.glitch.me/
     * Previous meetups:
       * Saturday April 8, 2017,  12:30  PM
-      * Sunday, May 7, 2017, 12:30 PM
-      * Saturday, June 10, 2017, 12:30 PM
-      * Sunday, July 9, 2017, 12:30 PM
+      * Sunday May 7, 2017, 12:30 PM
+      * Saturday June 10, 2017, 12:30 PM
+      * Sunday July 9, 2017, 12:30 PM
+      * Saturday August 12, 2017, 12:30 PM
     * Contact: 
       * nwalton125 (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/176053406267595/)
