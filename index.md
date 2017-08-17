@@ -540,7 +540,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Saturday May 20, 2017
       * Saturday June 24, 2017
       * Saturday July 22, 2017
-    * Contact: robirahman94 (at) gmail.com
+    * Contact:
+      * robirahman94 (at) gmail.com
+      * [Google group](https://groups.google.com/forum/#!forum/dc-slatestarcodex)
     * See also LessWrong DC
       * lesswrong-dc (at) googlegroups.com
       * [Facebook group](https://www.facebook.com/groups/LessWrongDC)
