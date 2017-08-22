@@ -228,7 +228,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Dublin
     * Additional search keywords: Ireland
-    * Meetup scheduled: Likely in September, email to find out more
+    * Meetup scheduled: Wednesday, September 13, 2017, 6-8 PM
+      * Location: O'Neill's Pub, Pearse Street, Dublin 2 (Lat: 53.344883, Long: -6.252476)
     * Previous meetups:
       * Wednesday, April 12, 2017,  6  PM
     * Contact: egoburnswell (at) gmail.com
