@@ -14,8 +14,10 @@ This is an **unofficial** community maintained listing of [SlateStarCodex Meetup
 
 Our listing is based on [this post](http://slatestarcodex.com/2017/04/03/ssc-meetups-everywhere-times-and-places/).
 We try to update the information of meetups, but we can't guarantee their veracity.
-Especially the '(next) scheduled meetup' field is most likely *outdated*.
-If the meetup has some kind of contact details (email, FB group, Google group, anything) listed, we encourage that you try to contact them directly.
+**Note** that especially the '(next) scheduled meetup' field may be (or rather, it most likely **is**) *outdated*.
+(Remember, this is only a glorified text file: the idea is to record when the field was updated.)
+If the meetup has some kind of contact details (email, FB group, Google group, anything) listed, we encourage that you always try to contact them directly for *up-to-date* information.
+Also see [issues](https://github.com/ssc-meetups-community/meetups/issues) for changes that are not yet incorporated into the list.
 
 ### How to use this repository?
 
