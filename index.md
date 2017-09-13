@@ -438,12 +438,12 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
-    * Meetup scheduled: Possibly late August or Early September, contact David for details
+    * Meetup scheduled: September 24th at 2:00 (contact David for details)
       * Location: 3806 Williams Rd (private residence)
     * Previous meetups:
-        * Sunday April 9, 2017,  2  PM
-        * Sunday May 7, 2017, 2 PM
-    * Contact:
+        * Sunday April 9, 2017, 2 PM
+        * Sunday May 7, 2017, 2 PM
+    * Contact:
         * ddfr (at) daviddfriedman.com, (408) 244-3330
         * [link](http://www.daviddfriedman.com/Miscellaneous/SSC%20Meetup.html)
 
