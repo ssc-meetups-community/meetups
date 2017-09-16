@@ -215,7 +215,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Denver [LW]
     * Regular meetups: Generally the first Tuesday of every month at 7 PM
-      * Location: Darcy's Irish Pub, back room ("the library"), 4955 S Ulster St
+      * Location: 5151 E Yale Cir, Denver CO 80222
     * Details: The Denver Rationalist community has monthly meetups, and is very welcoming of SSC readers
     * Previous meetups:
       * Tuesday April 4, 2017, 7 PM
