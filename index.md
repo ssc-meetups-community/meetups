@@ -127,19 +127,20 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: lw (at) noblejury.com
 
 * Berkeley
-    * Meetup scheduled: Sunday August 6, 2017, 2 PM
+    * Meetup scheduled: Unknown
       * Location: 85C Bakery Cafe
     * Previous meetups:
       * Sunday April 9, 2017,  2  PM
       * Tuesday May 16, 2017
+      * Sunday August 6, 2017, 2 PM
     * Contact: brianwang712 (at) gmail.com
     
 * Berlin
-    * Meetup scheduled: Unknown
+    * Meetup scheduled: Check meetup.com page
     * Previous meetups:
       * Sunday April 23, 2017,  7  PM
     * Contact: 
-      * [Meetup.com event](https://www.meetup.com/de-DE/LessWrong-Rationality-WaitButWhy-SlateStarCodex-Berlin/)
+      * [Meetup.com page](https://www.meetup.com/de-DE/LessWrong-Rationality-WaitButWhy-SlateStarCodex-Berlin/)
       * [LessWrong Berlin website](http://lesswrong.de)
       * [LessWrong Berlin Google group](https://groups.google.com/forum/#!forum/lw-berlin)
       * tiberius101 (at) protonmail.com
