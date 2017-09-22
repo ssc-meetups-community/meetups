@@ -129,19 +129,20 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: lw (at) noblejury.com
 
 * Berkeley
-    * Meetup scheduled: Sunday August 6, 2017, 2 PM
+    * Meetup scheduled: Unknown
       * Location: 85C Bakery Cafe
     * Previous meetups:
       * Sunday April 9, 2017,  2  PM
       * Tuesday May 16, 2017
+      * Sunday August 6, 2017, 2 PM
     * Contact: brianwang712 (at) gmail.com
     
 * Berlin
-    * Meetup scheduled: Unknown
+    * Meetup scheduled: Check meetup.com page
     * Previous meetups:
       * Sunday April 23, 2017,  7  PM
     * Contact: 
-      * [Meetup.com event](https://www.meetup.com/de-DE/LessWrong-Rationality-WaitButWhy-SlateStarCodex-Berlin/)
+      * [Meetup.com page](https://www.meetup.com/de-DE/LessWrong-Rationality-WaitButWhy-SlateStarCodex-Berlin/)
       * [LessWrong Berlin website](http://lesswrong.de)
       * [LessWrong Berlin Google group](https://groups.google.com/forum/#!forum/lw-berlin)
       * tiberius101 (at) protonmail.com
@@ -217,7 +218,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Denver [LW]
     * Regular meetups: Generally the first Tuesday of every month at 7 PM
-      * Location: Darcy's Irish Pub, back room ("the library"), 4955 S Ulster St
+      * Location: 5151 E Yale Cir, Denver CO 80222
     * Details: The Denver Rationalist community has monthly meetups, and is very welcoming of SSC readers
     * Previous meetups:
       * Tuesday April 4, 2017, 7 PM
@@ -432,11 +433,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 [comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
 
-    * Meetup scheduled: September 11, 2017, 06:15 PM
-    * Topic: Board Games and Singing
+    * Meetup scheduled: September 18, 2017, 06:15 PM
+    * Topic: Group Debugging
     * Location: [1769 15th St, San Francisco, CA 94103-3333, United States](https://www.google.com/maps/place/1769+15th+St%2C+San+Francisco%2C+CA+94103-3333%2C+United+States)
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), (301) 458-0764
-    * More Info: [Lesswrong Meetup Post](http://lesswrong.com/meetups/20l)
+    * More Info: [Lesswrong Meetup Post](http://lesswrong.com/meetups/20r)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
