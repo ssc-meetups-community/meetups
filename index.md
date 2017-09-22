@@ -537,16 +537,21 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: michal.trzesimiech (at) gmail.com
 
 * Washington DC
-    * Meetup scheduled: Saturday August 19, 2017
-      * Location: 1700 Leighton Wood Lane, Silver Spring, Maryland
+    * Meetup scheduled: September 23
+      * Location: 450 Massachusetts Avenue
     * Previous meetups:
       * Saturday April 15, 2017,  7  PM
       * Saturday May 20, 2017
       * Saturday June 24, 2017
       * Saturday July 22, 2017
+      * Saturday August 19, 2017
+      * Saturday September 16, 2017 (board games)
     * Contact:
       * robirahman94 (at) gmail.com
       * [Google group](https://groups.google.com/forum/#!forum/dc-slatestarcodex)
+    * Details:
+      * Previously reported location: 1700 Leighton Wood Lane, Silver Spring, Maryland
+      * Other upcoming meetups: October 28, November 25 (Thanksgiving potluck), December 16
     * See also LessWrong DC
       * lesswrong-dc (at) googlegroups.com
       * [Facebook group](https://www.facebook.com/groups/LessWrongDC)
