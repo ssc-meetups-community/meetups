@@ -298,16 +298,16 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Manchester UK
     * Additional search keywords: Kernel Project
-    * Meetup scheduled: Saturday, September 9th, 3 PM
+    * Meetup scheduled: Saturday, September 30th, 3 PM
       * Location: The Wharf, Manchester, M15 4ST - A nice pub overlooking the canals in the city centre
     * Regular meetups: Every three weeks, approximately
-    * Details: We will likely sit outside if the weather is nice, this event is going to be part freeform discussion on the usual SSC/EA/LW topics and part structured discussion of the Kernel project (https://www.facebook.com/groups/425689721111423/) If you have any questions about the event, how to get there, what it's all about or anything at all don't hesitate to contact me (details below)
+    * Details: We will likely sit outside if the weather is nice, the topic theme (Sep 30) is long term goals - What are you working towards?. If you have any questions about the event, how to get there, what it's all about or anything at all don't hesitate to contact me (details below)
     * Previous meetups:
-      * 14th August, 19th August
+      * 14th August, 19th August, 9th September
     * Contact: 
       * Email: benharrison795 at gmail dot com 
       * Facebook: https://www.facebook.com/Benzy14 
-      * Event page: https://www.facebook.com/events/1523828371014192/
+      * Event page: https://www.facebook.com/events/1905110439739962/
 
 * Miami
     * Meetup scheduled: Saturday August 5, 5 PM
