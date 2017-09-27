@@ -254,15 +254,18 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Helsinki
     * Additional search keywords: Finland
-    * Meetup scheduled: Tuesday, June 27, 2017, 5 PM
-        * Location: Oluthuone Kaisla, Vilhonkatu 4
-        * Details: We will start at 5, but you can join us later (the previous meetups have run ~2 hrs).
+    * Meetup scheduled: Tuesday, October 24, 2017, 6 PM
+        * Location: (previously, may change in future) Oluthuone Kaisla, Vilhonkatu 4
+        * Details: Regular monthly meetups. See [webpage/blog](https://sschkimeetup.wordpress.com/)
     * Previous meetups:
+        * Tuesday, September 26, 2017, 6 PM
+        * Tuesday, August 22, 2017, 6 PM
+        * Tuesday, June 27, 2017, 5 PM
         * Saturday, May 13, 2017,  3  PM
         * Monday, April 10, 2017,  4  PM
     * Contact:
         * sschelsinkimeetup (at) gmail.com
-        * [Google group](https://groups.google.com/group/ssc-helsinki-meetup-google-group), [webpage](https://ssc-fans-hki.github.io/ssc-hki-meetup/)
+        * [Google group](https://groups.google.com/group/ssc-helsinki-meetup-google-group), [webpage](https://sschkimeetup.wordpress.com/)
 
 * Houston
     * Meetup scheduled: TBD (contact Donnie below to be added to the mailing list)
