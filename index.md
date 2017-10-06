@@ -313,10 +313,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Event page: https://www.facebook.com/events/1905110439739962/
 
 * Miami
-    * Meetup scheduled: Saturday August 5, 5 PM
-      * Location: Pasion del Cielo Coffee, 3301 NE 1st Ave #100
+   * Additional search keywords: Florida
+   * Regular meetups: Second Saturday of the month at 5 PM
+      * Location: Pasion del Cielo Coffee, 3301 NE 1st Ave #100, Miami, FL 33137
     * Previous meetups:
-        * Saturday, April 29, 2017,  5  PM
+        * Saturday April 29, 2017,  5  PM
+        * Saturday August 5, 2017, 5 PM
+        * Saturday October 14, 2017, 5 PM
     * Contact: 
       * eric135033 (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/1931644027057534/)
