@@ -445,9 +445,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
-    * Meetup scheduled: September 24th at 2:00 (contact David for details)
-      * Location: 3806 Williams Rd (private residence)
+    * Meetup scheduled: Sunday October 29, 2:00 P.M (contact David for details)
+        * Location: 3806 Williams Rd (private residence)
+    * Details: Regular monthly meetups. If you plan to come, let us know so we will have at least a rough head count. 
     * Previous meetups:
+        * Sunday September 24, 2017, 2 PM
         * Sunday April 9, 2017, 2 PM
         * Sunday May 7, 2017, 2 PM
     * Contact:
