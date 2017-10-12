@@ -11,12 +11,17 @@
 
 This is an **unofficial** community maintained listing of [SlateStarCodex Meetups Everywhere](http://slatestarcodex.com/2017/04/03/ssc-meetups-everywhere-times-and-places/).
 [SlateStarCodex is a blog that we like](http://slatestarcodex.com/). You can read about origins of these meetups [here](http://slatestarcodex.com/2017/03/27/ssc-meetup-everywhere/).
-
 Our listing is based on [this post](http://slatestarcodex.com/2017/04/03/ssc-meetups-everywhere-times-and-places/).
-We try to update the information of meetups, but we can't guarantee their veracity.
-**Note** that especially the '(next) scheduled meetup' field may be (or rather, it most likely **is**) *outdated*.
-(Remember, this is only a glorified text file, not an automagically updating wonder of science: the idea is to record when each particular a bit of information was updated.)
-If the meetup has some kind of contact details (email, FB group, Google group, anything) listed, we encourage that you always try to contact them directly for *up-to-date* information.
+
+### Please note:
+
+1. We try to keep the information of meetups up-to-date, but we can't guarantee their veracity. This is an unofficial community effort, not a full-blown service.
+
+2. The '(next) scheduled meetup' field may be (or rather, it most likely **is**) *outdated*. It is meant to indicate when we last heard of them.
+
+3. Remember, this is only a glorified text file hosted on Github, not an automagically updating wonder of science.
+
+4. If the meetup has some kind of contact details (email, FB group, Google group, anything) listed, we encourage that you always try to contact them directly for *up-to-date* information.
 Also see [issues](https://github.com/ssc-meetups-community/meetups/issues) for changes that are not yet incorporated into the list.
 
 ### How to use this repository?
