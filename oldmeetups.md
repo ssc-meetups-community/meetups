@@ -80,6 +80,12 @@
       * Saturday April 8, 2017,  2  PM
     * Contact: 0659427285
     
+* Pittsburgh
+    * Inactive
+    * Previous meetups:
+      * Saturday April 8, 2017,  2  PM
+    * Contact: matthewfmarks (at) gmail.com
+
 * Rochester, New York
     * Five people attended first meetup; no current plans for future events
     * Previous meetups: 
