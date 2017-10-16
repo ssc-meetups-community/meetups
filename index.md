@@ -110,7 +110,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * Ann Arbor [LW]
     * Regular meetups: Every other Saturday, from 4 PM until about midnight, usually near downtown Ann Arbor
     * Contact: 
-      * [Google group](https://groups.google.com/forum/#!topic/a4r-a2/JmBQ8Mb-xnQ)
+      * [Google group](https://groups.google.com/forum/#!forum/a4r-a2)
       * [Website](http://memeware.org/A4RA2/)
       * azure (at) eclectic.blue
 
@@ -236,10 +236,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Dublin
     * Additional search keywords: Ireland
-    * Meetup scheduled: Wednesday, September 13, 2017, 6-8 PM
+    * Meetup scheduled: Unknown
       * Location: O'Neill's Pub, Pearse Street, Dublin 2 (Lat: 53.344883, Long: -6.252476)
     * Previous meetups:
       * Wednesday, April 12, 2017,  6  PM
+      * Wednesday, September 13, 2017, 6-8 PM
     * Contact: egoburnswell (at) gmail.com
 
 * Edinburgh
