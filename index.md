@@ -387,12 +387,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * spinystellate1 (at) gmail.com
       * [Google Group](https://groups.google.com/forum/#!forum/slate-star-codex-phoenix)
 
-* Pittsburgh
-    * Meetup scheduled: Unknown
-    * Previous meetups:
-      * Saturday April 8, 2017,  2  PM
-    * Contact: matthewfmarks (at) gmail.com
-
 * Portland
     * Regular meetups: We generally meet the second weekend of each month, alternating Saturdays and Sundays (note: this month we are meeting in the first weekend instead).
     * Meetup scheduled: Saturday, October 14, 2017, 12:30 PM. 
