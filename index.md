@@ -175,9 +175,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: kovacsahun (at) hotmail.com
 
 * Cambridge (UK)
-    * Meetup scheduled: October 12, 2017, 19:30 at the Burleigh Arms
+    * Meetup scheduled: next meetup probably some time in November
     * Previous meetups:
-      * April 22, May 10, June 21
+      * April 22, May 10, June 21, October 12
     * Contact: rlm72 (at) cam.ac.uk
       * Email me with any questions, or if you want to join the Facebook group
 
