@@ -22,6 +22,11 @@
       * May 2017
     * Contact: Unknown (if you are the contact person for the Canberra meetup, please create an issue)
 
+* Budapest
+    * Previous meetups:
+      * Saturday April 8, 2017,  2:30  PM
+    * Contact: kovacsahun (at) hotmail.com
+    
 * Copenhagen
     * Only 5 known interested people in Denmark, none committed
     * Additional search keywords: Denmark
@@ -80,8 +85,16 @@
       * Saturday April 8, 2017,  2  PM
     * Contact: 0659427285
     
+* Philadelphia
+    * SSC Philadelphia is inactive, but there is an active LessWrong meetup. Join the [Facebook group](https://www.facebook.com/groups/1860821844172873/) or [Google group](https://groups.google.com/forum/#!forum/lesswrong-philadelphia)
+    * Previous meetups:
+      * Saturday April 15, 2017, 2 PM
+      * Saturday June 10, 2017, 2 PM
+    * Contact: 
+      * wfenza (at) gmail.com
+
 * Pittsburgh
-    * Inactive
+    * Status: Inactive
     * Previous meetups:
       * Saturday April 8, 2017,  2  PM
     * Contact: matthewfmarks (at) gmail.com
@@ -91,3 +104,14 @@
     * Previous meetups: 
       * Sunday April 9, 2017,  1  PM
     * Contact: thecommexokid (at) gmail.com
+
+* Toronto
+    * Status: Dormant
+    * Details: Jess has moved away from Toronto, but contact him if you would like to plan a meetup.
+    * Previous meetups:
+        * Saturday April 22, 2017, 1 PM
+        * Saturday May 27, 2017, 1 PM
+        * Saturday August 5, 2017, 1 PM
+    * Contact:
+        * jessriedel (at) gmail.com
+        * [Meetup page](https://www.meetup.com/Less-Wrong-Toronto/)
