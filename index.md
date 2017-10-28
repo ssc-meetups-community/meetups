@@ -168,12 +168,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * jarred.filmer (at) gmail.com
       * [LessWrong Brisbane Facebook group](https://www.facebook.com/groups/1469995636588748/)
 
-* Budapest
-    * Meetup scheduled: Unknown
-    * Previous meetups:
-      * Saturday April 8, 2017,  2:30  PM
-    * Contact: kovacsahun (at) hotmail.com
-
 * Cambridge (UK)
     * Meetup scheduled: next meetup probably some time in November
     * Previous meetups:
@@ -307,25 +301,24 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Manchester UK
     * Additional search keywords: Kernel Project
-    * Meetup scheduled: Saturday, September 30th, 3 PM
-      * Location: The Wharf, Manchester, M15 4ST - A nice pub overlooking the canals in the city centre
-    * Regular meetups: Every three weeks, approximately
-    * Details: We will likely sit outside if the weather is nice, the topic theme (Sep 30) is long term goals - What are you working towards?. If you have any questions about the event, how to get there, what it's all about or anything at all don't hesitate to contact me (details below)
+    * Meetup scheduled: Monday November 6, 2017, 7 PM [(Facebook event)](https://www.facebook.com/events/521180264901714/)
+    * Regular meetups: First Monday of every month, 7-9 PM
+      * Location: [Madlab](https://madlab.org.uk/events/the-kernel-project/), 36-40 Edge Street, M4 1HN Manchester
+    * Details: If you have any questions about the event, how to get there, what it's all about or anything at all don't hesitate to contact me (details below)
     * Previous meetups:
       * 14th August, 19th August, 9th September
     * Contact: 
       * Email: benharrison795 at gmail dot com 
-      * Facebook: https://www.facebook.com/Benzy14 
-      * Event page: https://www.facebook.com/events/1905110439739962/
+      * Personal Facebook: https://www.facebook.com/Benzy14 
 
 * Miami
    * Additional search keywords: Florida
    * Regular meetups: Second Saturday of the month at 5 PM
       * Location: Pasion del Cielo Coffee, 3301 NE 1st Ave #100, Miami, FL 33137
     * Previous meetups:
-        * Saturday April 29, 2017,  5  PM
-        * Saturday August 5, 2017, 5 PM
-        * Saturday October 14, 2017, 5 PM
+      * Saturday April 29, 2017,  5  PM
+      * Saturday August 5, 2017, 5 PM
+      * Saturday October 14, 2017, 5 PM
     * Contact: 
       * eric135033 (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/1931644027057534/)
@@ -367,18 +360,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: 
       * conor.meade (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/256824054474775/)
-
-* Philadelphia
-    * Meetup scheduled: 
-      * Location: Washington Square Park (rain location: Bourse Food Court), in Old City, Philadelphia
-    * Details: Meetups are regular-ish, about once a month, but no set schedule
-    * Previous meetups:
-      * Saturday April 15, 2017, 2 PM
-      * Saturday June 10, 2017, 2 PM
-    * Contact: 
-      * wfenza (at) gmail.com
-      * [Facebook group](https://www.facebook.com/groups/1860821844172873/)
-      * [Google group](https://groups.google.com/forum/#!forum/lesswrong-philadelphia)
 
 * Phoenix
     * Meetup scheduled: Currently dormant, join Google group to find out about future meetups
@@ -450,7 +431,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 * San Jose, California
     * Meetup scheduled: Sunday October 29, 2:00 P.M (contact David for details)
         * Location: 3806 Williams Rd (private residence)
-    * Details: Regular monthly meetups. If you plan to come, let us know so we will have at least a rough head count. 
+    * Details: Meetups are scheduled irregularly. If you plan to come, let us know so we will have at least a rough head count. 
     * Previous meetups:
         * Sunday September 24, 2017, 2 PM
         * Sunday April 9, 2017, 2 PM
@@ -519,16 +500,6 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Tuesday July 25, 2017, 7:30 PM
     * Contact:
       * [Facebook group](https://www.facebook.com/groups/480249315379682/)
-
-* Toronto [LW]
-    * Meetup scheduled: Saturday August 5, 2017. See Meetup.com page for details.
-    * Details: Toronto SSC has taken over the previously dormant Toronto LessWrong meetup.com group. The first SSC meetup was successful, with >25 attendees.
-    * Previous meetups:
-        * Saturday April 22, 2017,  1  PM
-        * Saturday May 27, 2017, 1 PM
-    * Contact:
-        * jessriedel (at) gmail.com
-        * [Meetup page](https://www.meetup.com/Less-Wrong-Toronto/)
         
 * Vienna [LW]
     * Additional search keywords: Prague, Bratislava, Austria, Czech, Slovakia
@@ -547,7 +518,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: michal.trzesimiech (at) gmail.com
 
 * Washington DC
-    * Meetup scheduled: September 23
+    * Meetup scheduled: Saturday October 28, 2017
       * Location: 450 Massachusetts Avenue
     * Previous meetups:
       * Saturday April 15, 2017,  7  PM
@@ -561,7 +532,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Google group](https://groups.google.com/forum/#!forum/dc-slatestarcodex)
     * Details:
       * Previously reported location: 1700 Leighton Wood Lane, Silver Spring, Maryland
-      * Other upcoming meetups: October 28, November 25 (Thanksgiving potluck), December 16
+      * Other upcoming meetups: November 25 (Thanksgiving potluck), December 16
     * See also LessWrong DC
       * lesswrong-dc (at) googlegroups.com
       * [Facebook group](https://www.facebook.com/groups/LessWrongDC)
