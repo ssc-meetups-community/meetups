@@ -86,7 +86,7 @@
     * Contact: 0659427285
     
 * Philadelphia
-    * SSC Philadelphia is inactive, but there is an active LessWrong meetup. Join the [Facebook group](https://www.facebook.com/groups/1860821844172873/) or [Google group](https://groups.google.com/forum/#!forum/lesswrong-philadelphia)
+    * SSC Philadelphia is inactive, but there is an active LessWrong meetup, for which you can join the [Facebook group](https://www.facebook.com/groups/1860821844172873/) or [Google group](https://groups.google.com/forum/#!forum/lesswrong-philadelphia).
     * Previous meetups:
       * Saturday April 15, 2017, 2 PM
       * Saturday June 10, 2017, 2 PM
