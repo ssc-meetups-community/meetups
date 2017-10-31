@@ -446,10 +446,15 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * 6 May 2017, 2 PM
       * 10 June 2017, 2 PM
       * 29 July 2017, 2 PM
+      * 19 August, 2 PM
+      * 16 September, 2 PM
+      * 14 October, 2 PM
     * Contact: 
       * gusbicalho (at) gmail.com
+      * [Subreddit](https://www.reddit.com/r/racionalidade/)
       * [Meetup.com](https://www.meetup.com/pt-BR/Racionalidade-em-Sao-Paulo/)
       * [mailing list](https://groups.google.com/forum/#!forum/racionalidade) (not very active)
+      * You may want to check our [googlesite w/ some resources](https://sites.google.com/site/racionalidadesp/)
 
 * Seattle [LW]
     * Meetup scheduled: See Facebook group
