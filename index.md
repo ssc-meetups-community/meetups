@@ -393,6 +393,9 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Wednesday May 10, 2017, 7 PM
       * Thursday April 6, 2017,  7  PM
       * Wednesday June 27, 2017,  7  PM
+      * Monday August 14, 2017, 7 PM
+      * Wednesday September 13, 2017, 7 PM
+      * Thursday October 19, 2017, 7 PM
     * Contact: mpobrie3 (at) ncsu.edu
 
 * Sacramento
