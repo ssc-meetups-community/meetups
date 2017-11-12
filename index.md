@@ -526,15 +526,20 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: michal.trzesimiech (at) gmail.com
 
 * Washington DC
-    * Meetup scheduled: Saturday October 28, 2017
+    * Meetup scheduled: Sunday November 26, 2017 (Thanksgiving potluck)
       * Location: 450 Massachusetts Avenue
+      * Next meetup: Saturday December 16, 2017 (Winter solstice)
     * Previous meetups:
       * Saturday April 15, 2017,  7  PM
       * Saturday May 20, 2017
       * Saturday June 24, 2017
       * Saturday July 22, 2017
       * Saturday August 19, 2017
+      * Saturday September 9, 2017
       * Saturday September 16, 2017 (board games)
+      * Saturday September 23, 2017
+      * Saturday October 14, 2017
+      * Saturday October 28, 2017
     * Contact:
       * robirahman94 (at) gmail.com
       * [Google group](https://groups.google.com/forum/#!forum/dc-slatestarcodex)
