@@ -428,7 +428,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Topic: Board Games and Singing
     * Location: [855 Brannan St San Francisco, CA 94103](https://www.google.com/maps/place/855+Brannan+St+San+Francisco%2C+CA+94103)
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), (301) 458-0764
-    * More Info: [Lesswrong Meetup Post](http://lesswrong.com/meetups/226)
+    * More Info: [Lesswrong Meetup Post](http://lesswrong.com/meetups/227)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
