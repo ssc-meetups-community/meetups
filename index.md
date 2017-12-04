@@ -388,7 +388,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Raleigh
     * Additional search keywords: Research Triangle, Chapel Hill, Durham, North Carolina
-    * Meetup scheduled: Unknown
+    * Meetup scheduled: Monday December 11, 2017, 7 PM at Bull City Ciderworks in Durham
     * Previous meetups:
       * Wednesday May 10, 2017, 7 PM
       * Thursday April 6, 2017,  7  PM
@@ -396,6 +396,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Monday August 14, 2017, 7 PM
       * Wednesday September 13, 2017, 7 PM
       * Thursday October 19, 2017, 7 PM
+      * Wednesday November 15, 2017, 7 PM
     * Contact: mpobrie3 (at) ncsu.edu
 
 * Sacramento
