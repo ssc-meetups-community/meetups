@@ -427,7 +427,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
     * Meetup scheduled: January 08, 2018, 06:15 PM
     * Topic: Year in Review
-    * Location: [855 Brannan St San Francisco, CA 94103](https://www.google.com/maps/place/855+Brannan+St+San+Francisco%2C+CA+94103)
+    * Location: [75 Brighton Ave, San Francisco, CA 94112]()https://www.google.com/maps/place/75+Brighton+Ave,+San+Francisco,+CA+94112/data=!4m2!3m1!1s0x808f7c2db48d65a1:0x39ac246370f3c97b?sa=X&ved=0ahUKEwjOm-CA38bYAhVH5IMKHV1PDKcQ8gEIJzAA
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), (301) 458-0764
     * More Info: [Lesswrong Meetup Post](http://lesswrong.com/meetups/22n)
 
