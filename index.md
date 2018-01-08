@@ -303,21 +303,25 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Manchester UK
     * Additional search keywords: Kernel Project
-    * Meetup scheduled: Monday November 6, 2017, 7 PM [(Facebook event)](https://www.facebook.com/events/521180264901714/)
-    * Regular meetups: First Monday of every month, 7-9 PM
-      * Location: [Madlab](https://madlab.org.uk/events/the-kernel-project/), 36-40 Edge Street, M4 1HN Manchester
-    * Details: If you have any questions about the event, how to get there, what it's all about or anything at all don't hesitate to contact me (details below)
+    * Meetup scheduled: Monday 8th January 2018, 7pm to 9pm
+    * Regular meetups: First Monday of every month, 7-9 PM at Madlab
+      * Location: [Madlab](https://madlab.org.uk/events/the-kernel-project/), 36-40 Edge Street, Manchester M4 1HN, Whatever floor the chalkboard says Kernel/Scientific Self-Improvement is on
+    * Details: There is also an Effective Altruism meetup at Madlab, that many of us also attend, the meetup group is linked in the contact details. Manchester is home to the Kernel project, which is broadly Rationalist/SSC-aligned and focuses on the neglected practical side of rationality. We also have a large grouphouse in Levenshulme that is owned by a project member, spare rooms currently available, spare couches always available. If you have any questions about the event, how to get there, what it's all about or anything at all don't hesitate to contact me (details below)
     * Previous meetups:
-      * 14th August, 19th August, 9th September
+      * 14th August, 19th August, 9th September, 30th September, 6th November, 4th December
     * Contact: 
-      * Email: benharrison795 at gmail dot com 
+      * Email: kernelmanchester at gmail dot com 
       * Personal Facebook: https://www.facebook.com/Benzy14 
+      * Facebook group: https://www.facebook.com/groups/425689721111423/
+      * Meetup group: https://www.meetup.com/Scientific-Self-Improvement/
+      * Effective Altruism Manchester: https://www.meetup.com/meetup-group-YxMmJFwL/
 
 * Miami
    * Additional search keywords: Florida
    * Regular meetups: Second Saturday of the month at 5 PM
       * Location: Pasion del Cielo Coffee, 3301 NE 1st Ave #100, Miami, FL 33137
-    * Previous meetups:
+   * Details: Please send an e-mail to confirm meetup location details (or join the Facebook group and check the next scheduled event).
+   * Previous meetups:
       * Saturday April 29, 2017,  5  PM
       * Saturday August 5, 2017, 5 PM
       * Saturday October 14, 2017, 5 PM
@@ -414,6 +418,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Previous meetups:
       * Saturday April 8, 2017,  1:30  PM
       * Friday July 14, 2017, 6 PM
+    * Contact: dwood15 (at) gmail.com
 
 * San Diego
     * Regular meetups: Monthly, see Facebook group
