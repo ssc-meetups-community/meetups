@@ -372,8 +372,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * [Google Group](https://groups.google.com/forum/#!forum/slate-star-codex-phoenix)
 
 * Portland
-    * Regular meetups: We generally meet the second weekend of each month, alternating Saturdays and Sundays (note: this month we are meeting in the first weekend instead).
-    * Meetup scheduled: Sunday, November 12th, 12:30 PM
+    * Regular meetups: We generally meet the second weekend of each month, alternating Saturdays and Sundays
+    * Meetup scheduled: Sunday, January 14th, 12:30 PM
       * Location: Contact Noah for the location, or request to join the Facebook group (email and link below)
     * Detail: You can RSVP at https://rsvp.glitch.me/
     * Previous meetups:
@@ -383,7 +383,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Sunday July 9, 2017, 12:30 PM
       * Saturday August 12, 2017, 12:30 PM
       * Sunday September 3, 2017, 12:30 PM
-      * Saturday, October 14, 2017, 12:30 PM.
+      * Saturday, October 14, 2017, 12:30 PM
+      * Sunday, November 12th, 12:30 PM
     * Contact: 
       * nwalton125 (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/176053406267595/)
