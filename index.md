@@ -384,7 +384,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Saturday August 12, 2017, 12:30 PM
       * Sunday September 3, 2017, 12:30 PM
       * Saturday, October 14, 2017, 12:30 PM
-      * Sunday, November 12th, 12:30 PM
+      * Sunday, November 12, 12:30 PM
+      * Saturday, December 9, 12:30 PM
     * Contact: 
       * nwalton125 (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/176053406267595/)
