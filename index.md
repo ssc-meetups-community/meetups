@@ -41,11 +41,13 @@ Some popular platforms to advertise your meetup are e.g. [Meetup.com](https://ww
 Let us know!
 
 1. If you have a GitHub account, [create an issue](https://github.com/ssc-meetups-community/meetups/issues). (Click the link, 'New Issue'.)
-2. If you don't have a GitHub account / you don't want to create one, you can email the maintainer (currently [ssc-fans-hki](https://github.com/ssc-fans-hki) at sschelsinkimeetup a t gmail.com.)
+2. If you don't have a GitHub account, please create one.
 
 ### Your information is outdated!
 
 If you see outdated information / want to get your email off the list / have a suggestion, please create an [issue](https://github.com/ssc-meetups-community/meetups/issues) (see above) or if you know how to github, a [pull request](https://github.com/ssc-meetups-community/meetups/pulls).
+
+**NB.** The repository is currently updated only sporadically.
 
 ### Other SSC-aligned activities?
 
