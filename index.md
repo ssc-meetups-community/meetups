@@ -256,14 +256,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Helsinki
     * Additional search keywords: Finland
-    * Meetup scheduled: Tuesday, October 24, 2017, 6 PM
-        * Location: (previously, may change in future) Oluthuone Kaisla, Vilhonkatu 4
+    * Meetup scheduled: See [calendar](https://sschkimeetup.wordpress.com/calendar/)
+        * Location:
+            * January 23, 2018: Urho Kekkosen katu 7 B
+            * Previously: Kaisla, Vilhonkatu 4
         * Details: Regular monthly meetups. See [webpage/blog](https://sschkimeetup.wordpress.com/)
     * Previous meetups:
-        * Tuesday, September 26, 2017, 6 PM
-        * Tuesday, August 22, 2017, 6 PM
-        * Tuesday, June 27, 2017, 5 PM
-        * Saturday, May 13, 2017,  3  PM
+        * (Nearly monthly since April 2017)
         * Monday, April 10, 2017,  4  PM
     * Contact:
         * sschelsinkimeetup (at) gmail.com
