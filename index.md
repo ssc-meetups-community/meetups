@@ -164,8 +164,8 @@ The meetup groups we have not heard about in over ~two months should be moved to
     * Contact: [Mailing list](https://groups.google.com/forum/#!contactowner/ssc-boston), [Facebook event](https://www.facebook.com/events/367458173683334/)
 
 * Brisbane
-    * Meetup scheduled: The last Friday of every month
-      * Location: The Boiler Room, Fortitude Valley (Speakeasy behind Tomcat, Google for directions) 
+    * Meetup scheduled: The last Friday of every month at 7pm
+      * Location: Savile Row, Fortitude Valley (Unassuming orange door with no handle, just push) 
     * Contact: 
       * jarred.filmer (at) gmail.com
       * [LessWrong Brisbane Facebook group](https://www.facebook.com/groups/1469995636588748/)
