@@ -376,7 +376,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 * Portland
     * Regular meetups: We generally meet the second weekend of each month, alternating Saturdays and Sundays
-    * Meetup scheduled: Saturday, February 10, 12:30 PM
+    * Meetup scheduled: Sunday, March 11, 2018, 12:30 PM
       * Location: Contact Noah for the location, or request to join the Facebook group (email and link below)
     * Detail: You can RSVP at https://rsvp.glitch.me/
     * Previous meetups:
@@ -390,6 +390,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * Sunday, November 12, 12:30 PM
       * Saturday, December 9, 12:30 PM
       * Sunday, January 14, 2018, 12:30 PM
+      * Saturday, February 10, 12:30 PM
     * Contact: 
       * nwalton125 (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/176053406267595/)
