@@ -366,6 +366,10 @@ The meetup groups we have not heard about in over ~two months should be moved to
       * conor.meade (at) gmail.com
       * [Facebook group](https://www.facebook.com/groups/256824054474775/)
 
+* Philadelphia [LW]
+   * Meetup scheduled: Alternate Saturdays at 1 PM
+   * Join the [mailing list](https://groups.google.com/forum/#!forum/lesswrong-philadelphia) for more info
+
 * Phoenix
     * Meetup scheduled: Currently dormant, join Google group to find out about future meetups
     * Previous meetups:
