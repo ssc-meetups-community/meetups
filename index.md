@@ -447,7 +447,7 @@ The meetup groups we have not heard about in over ~two months should be moved to
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
-    * Meetup scheduled: See http://www.daviddfriedman.com/SSC%20Meetups%20announcement.html (contact David for details)
+    * Meetup scheduled: Saturday March 10, 2 PM ; See http://www.daviddfriedman.com/SSC%20Meetups%20announcement.html (contact David for details)
         * Location: 3806 Williams Rd (private residence)
     * Details: Meetups are scheduled irregularly. If you plan to come, let us know so we will have at least a rough head count. 
     * Previous meetups:
