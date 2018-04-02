@@ -440,11 +440,11 @@ The meetup groups we have not heard about in over ~two months should be moved to
 [comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
 
-    * Meetup scheduled: March 26, 2018, 06:15 PM
-    * Topic: Group Debugging
+    * Meetup scheduled: April 02, 2018, 06:15 PM
+    * Topic: Projects
     * Location: [855 Brannan St San Francisco, CA 94103](https://www.google.com/maps/place/855+Brannan+St+San+Francisco%2C+CA+94103)
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), (301) 458-0764
-    * More Info: [Lesswrong Meetup Post](http://lesswrong.com/meetups/23r)
+    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/posts/z6L8BMat6ssGXGSFj/san-francisco-meetup-projects)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
