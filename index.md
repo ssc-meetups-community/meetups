@@ -300,6 +300,13 @@ The meetup groups we have not heard about in over ~two months should be moved to
         * [Google group](https://groups.google.com/forum/#!forum/lw-socal-announce)
         * bobert.mushky (at) gmail.com
 
+* Madrid
+    * Additional search keywords: Spain, Espa&ntilde;a, altruismo, efectivo, eficaz, racionalismo, racionalidad, AE
+    * Regular meetups: roughly every two weeks
+    * Meetup scheduled: Friday, April 20, 2018, 5 PM (local time)
+      * Location: *Facultad de Matem&aacute;ticas, Universidad Complutense*
+    * Contact: [Meetup](https://www.meetup.com/Effective-Altruism-en-Madrid/)
+
 * Manchester UK
     * Additional search keywords: Kernel Project
     * Meetup scheduled: Monday 8th January 2018, 7pm to 9pm
