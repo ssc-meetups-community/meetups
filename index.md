@@ -3,26 +3,17 @@
 
 ## The Unofficial SSC Meetup Repository
 
-[See here for map of meetup locations](https://www.mapcustomizer.com/map/SSC%20Meetups%208%2F2017)
+**N.B. As of April 2018, this file is no longer actively updated. All users: please migrate to new [LW community page](https://www.lesswrong.com/community) at [https://www.lesswrong.com/community](https://www.lesswrong.com/community).**
+
+**The meetup information below is archived for reference only.**
 
 [See here for meetup data commit history](https://github.com/ssc-meetups-community/meetups/commits/master)
 
 ### What is this?
 
-This is an **unofficial** community maintained listing of [SlateStarCodex Meetups Everywhere](http://slatestarcodex.com/2017/04/03/ssc-meetups-everywhere-times-and-places/).
+This was an **unofficial** community maintained listing of [SlateStarCodex Meetups Everywhere](http://slatestarcodex.com/2017/04/03/ssc-meetups-everywhere-times-and-places/).
 [SlateStarCodex is a blog that we like](http://slatestarcodex.com/). You can read about origins of these meetups [here](http://slatestarcodex.com/2017/03/27/ssc-meetup-everywhere/).
-Our listing is based on [this post](http://slatestarcodex.com/2017/04/03/ssc-meetups-everywhere-times-and-places/).
-
-### Please note:
-
-1. We try to keep the information of meetups up-to-date, but we can't guarantee their veracity. This is an unofficial community effort, not a full-blown service.
-
-2. The '(next) scheduled meetup' field may be (or rather, it most likely **is**) *outdated*. It is meant to indicate when we last heard of them.
-
-3. Remember, this is only a glorified text file hosted on Github, not an automagically updating wonder of science.
-
-4. If the meetup has some kind of contact details (email, FB group, Google group, anything) listed, we encourage that you always try to contact them directly for *up-to-date* information.
-Also see [issues](https://github.com/ssc-meetups-community/meetups/issues) for changes that are not yet incorporated into the list.
+The listing was based on [this post](http://slatestarcodex.com/2017/04/03/ssc-meetups-everywhere-times-and-places/).
 
 ### How to use this repository?
 
@@ -30,72 +21,14 @@ Our current solution is very simple and low-tech (this is on purpose): this is a
 
 Press `Ctrl-F` in your web browser, and search for a location nearby you.
 
-### I'm organizing a meetup, what I should do?
+### The SSC Meetups Everywhere: The Deprecated List
 
-We'd appreciate if you created an external webpage (or similar) in the public internet that you regularly update, and [then tell us about it](https://github.com/ssc-meetups-community/meetups/issues) so that we can link to there.
+This page contains the meetups we knew of in April 2018, when this repository was discontinued.
 
-Some popular platforms to advertise your meetup are e.g. [Meetup.com](https://www.meetup.com/), [Google Group](https://groups.google.com), public Facebook event, public blog, [LessWrong meetup event](http://lesswrong.com/meetups/) , etc etc.
+An active list of SSC (and various other SSC-adjacent) meetups can found [on LW2.0](https://www.lesswrong.com/community).
+Repeat: the list below is provided for archival purposes only!
 
-### Okay, I have a public webpage / FB event / Meetup.com / a Thing, what next?
-
-Let us know!
-
-1. If you have a GitHub account, [create an issue](https://github.com/ssc-meetups-community/meetups/issues). (Click the link, 'New Issue'.)
-2. If you don't have a GitHub account, please create one.
-
-### Your information is outdated!
-
-If you see outdated information / want to get your email off the list / have a suggestion, please create an [issue](https://github.com/ssc-meetups-community/meetups/issues) (see above) or if you know how to github, a [pull request](https://github.com/ssc-meetups-community/meetups/pulls).
-
-**NB.** The repository is currently updated only sporadically.
-
-### Other SSC-aligned activities?
-
-If you did not find any meetups near you on this list, do not despair.
-You might consider checking if there's [LessWrong](http://lesswrong.com/meetups/) activity near you.
-(Alternatively you could think about organizing your own event.
-See [this](http://slatestarcodex.com/2017/04/03/ssc-meetups-everywhere-times-and-places/) and [this](http://slatestarcodex.com/2017/03/27/ssc-meetup-everywhere/) for advice.
-Possible avenues for advertising / finding out if there are other SSC readers nearby: [the open thread](http://slatestarcodex.com/tag/open/?latest), [subreddit](https://www.reddit.com/r/slatestarcodex/) and [Discord](https://discordapp.com/invite/gpaTCxh).)
-
-### RSS?
-
-GitHub provides automagical Atom feed of changes to the repository master branch at [https://github.com/ssc-meetups-community/meetups/commits/master.atom](https://github.com/ssc-meetups-community/meetups/commits/master.atom)
-
-
-### How to contribute?
-
-Our format is as follows: [Optional fields marked with brackets.]
-
-```
-* Meetup location (city)
-    * [Additional search keywords:] Country, (anything else you think is relevant)
-    * [Regular meetups:] (any information we have if the meetups happen regularly)
-    * Meetup scheduled: Saturday, April 15, 2017,  7  PM  (the next / most recent scheduled meetup that we know of, local time)
-      * Location: Description of location for ^
-    * [Details:] (if we have some additional details)
-    * [Previous meetups:]
-        - Saturday, April 8, 2017,  7  PM
-    * Contact: Contact details like email, FB group, Meetup.com, website, blog, anything. Links: [link name](http://www.google.com)
-```
-
-and it looks like this (without brackets):
-
-* Meetup location (city)
-    * Additional search keywords: Country, (anything else you think is relevant)
-    * Regular meetups: (any information we have if the meetups happen regularly)
-    * Meetup scheduled: Saturday, April 15, 2017,  7  PM  (the next / most recent scheduled meetup that we know of, local time)
-      * Location: Description of location for ^
-    * Details: (if we have some additional details)
-    * Previous meetups:
-        * Saturday, April 8, 2017,  7  PM
-    * Contact: Contact details like email, FB group, website, blog, anything. Links: [link name](http://www.google.com)
-
-
-
-### The SSC Meetups Everywhere: Active / Recent Meetups
-
-This list should include only active or recently held meetups.
-The meetup groups we have not heard about in over ~two months should be moved to the [inactive meetups list](oldmeetups.html).
+Some contact details of additional meetup groups that were deemed inactive can be found on the [inactive meetups list](oldmeetups.html).
 
 * Amsterdam
     * Additional search keywords: Netherlands
