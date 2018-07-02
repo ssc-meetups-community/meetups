@@ -380,11 +380,11 @@ Some contact details of additional meetup groups that were deemed inactive can b
 [comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
 
-    * Meetup scheduled: May 21, 2018, 06:15 PM
+    * Meetup scheduled: July 02, 2018, 06:15 PM
     * Topic: Board Games and Singing
     * Location: [855 Brannan St San Francisco, CA 94103](https://www.google.com/maps/place/855+Brannan+St+San+Francisco%2C+CA+94103)
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), (301) 458-0764
-    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/ugETnNDA96msiqba3)
+    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/au2snh4MpoHB3C8dE)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
