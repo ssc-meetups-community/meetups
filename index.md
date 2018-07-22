@@ -380,11 +380,11 @@ Some contact details of additional meetup groups that were deemed inactive can b
 [comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
 
-    * Meetup scheduled: July 16, 2018, 06:15 PM
-    * Topic: Projects
+    * Meetup scheduled: July 23, 2018, 06:15 PM
+    * Topic: Articles
     * Location: [855 Brannan St San Francisco, CA 94103](https://www.google.com/maps/place/855+Brannan+St+San+Francisco%2C+CA+94103)
-    * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), (301) 458-0764
-    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/KQC5bQ7SeEiywkLc3)
+    * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), 301-458-0764
+    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/oTr6GwNtCoAcqFyvf)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
