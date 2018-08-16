@@ -380,11 +380,11 @@ Some contact details of additional meetup groups that were deemed inactive can b
 [comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
 
-    * Meetup scheduled: August 06, 2018, 06:15 PM
-    * Topic: Board Games and Singing
+    * Meetup scheduled: August 20, 2018, 06:15 PM
+    * Topic: Group Debugging
     * Location: [855 Brannan St San Francisco, CA 94103](https://www.google.com/maps/place/855+Brannan+St+San+Francisco%2C+CA+94103)
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), 301-458-0764
-    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/6HMrr3Zuhx62QonAi)
+    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/xS4ETbDofsAW8Bu2v)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
