@@ -384,7 +384,7 @@ Some contact details of additional meetup groups that were deemed inactive can b
     * Topic: Shallow Questions
     * Location: [33 8th St, San Francisco, CA 94103, United States](https://www.google.com/maps/place/33+8th+St%2C+San+Francisco%2C+CA+94103%2C+United+States)
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), 301-458-0764
-    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/sPPQJogWrvqjEQTop)
+    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/8TNKhKDuhKtgiYEa2)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
