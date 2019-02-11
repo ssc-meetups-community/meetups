@@ -380,11 +380,11 @@ Some contact details of additional meetup groups that were deemed inactive can b
 [comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
 
-    * Meetup scheduled: February 04, 2019, 06:15 PM
-    * Topic: Reading Discussion
+    * Meetup scheduled: February 11, 2019, 06:15 PM
+    * Topic: Projects
     * Location: [33 8th St, San Francisco, CA 94103, United States](https://www.google.com/maps/place/33+8th+St%2C+San+Francisco%2C+CA+94103%2C+United+States)
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), 301-458-0764
-    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/C4WR59p8QHbZPpQDB)
+    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/mnoGsdFf4B3DL7SX3)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
