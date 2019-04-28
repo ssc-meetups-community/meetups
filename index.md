@@ -380,11 +380,11 @@ Some contact details of additional meetup groups that were deemed inactive can b
 [comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
 
-    * Meetup scheduled: April 22, 2019, 06:15 PM
-    * Topic: Group Debugging
-    * Location: [33 8th St, San Francisco, CA 94103, United States](https://www.google.com/maps/place/33+8th+St%2C+San+Francisco%2C+CA+94103%2C+United+States)
+    * Meetup scheduled: April 29, 2019, 06:30 PM
+    * Topic: Projects
+    * Location: [981 Mission St, San Francisco, CA 94103, United States](https://www.google.com/maps/place/981+Mission+St%2C+San+Francisco%2C+CA+94103%2C+United+States)
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), 301-458-0764
-    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/PCwkaPoJaxjgYbPYH)
+    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/z8uTbKHk3hA2DX8sZ)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
