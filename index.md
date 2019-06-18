@@ -381,10 +381,10 @@ Some contact details of additional meetup groups that were deemed inactive can b
 * San Francisco [LW]
 
     * Meetup scheduled: June 17, 2019, 06:30 PM
-    * Topic: Meta Meetup
+    * Topic: Shallow Questions
     * Location: [170 Hawthorne St, San Francisco, CA 94107, United States](https://www.google.com/maps/place/170+Hawthorne+St%2C+San+Francisco%2C+CA+94107%2C+United+States)
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), 301-458-0764
-    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/S34SgtAm5aNqbfCFs)
+    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/zCkixAuZbxLuGrXcf)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
