@@ -380,11 +380,11 @@ Some contact details of additional meetup groups that were deemed inactive can b
 [comment]: # (END_SAN_DIEGO BEGIN_SAN_FRANCISCO_LW This helps the SF meetup bot find the right meetup.)
 * San Francisco [LW]
 
-    * Meetup scheduled: August 19, 2019, 06:30 PM
-    * Topic: Projects
+    * Meetup scheduled: August 26, 2019, 06:30 PM
+    * Topic: Shallow Questions
     * Location: [170 Hawthorne St, San Francisco, CA 94107, United States](https://www.google.com/maps/place/170+Hawthorne+St%2C+San+Francisco%2C+CA+94107%2C+United+States)
     * Contact: [rocurley@gmail.com](mailto:rocurley@gmail.com), 301-458-0764
-    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/JYnSJ7SW8GFHqFfC6)
+    * More Info: [Lesswrong Meetup Post](https://www.lesswrong.com/events/o7KkggtARRLARGvPM)
 
 [comment]: # (END_SAN_FRANCISCO_LW BEGIN_SAN_JOSE )
 * San Jose, California
